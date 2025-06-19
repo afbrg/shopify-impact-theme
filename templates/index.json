@@ -103,6 +103,161 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_7b7WbE": {
+      "type": "multi-column",
+      "blocks": {
+        "item_k3fbpE": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Stéphane R.",
+            "heading_tag": "h4",
+            "content": "<p>\"Je rentre chez moi à 6h du matin, donc en été c'était presque impossible de m’endormir. Mais avec ce store, plus besoin de me retourner dans tous les sens ou d’essayer de bloquer les rayons du soleil. Ça change tout !\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_bPyfUE": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Greg B.",
+            "heading_tag": "h4",
+            "content": "<p>\"J’étais un peu sceptique après avoir vu ces stores sur Instagram… la plupart des produits que j’y commande sont de mauvaise qualité ou décevants.<br/>Mais là, j’ai été agréablement surpris ! Montage super simple, aucun perçage nécessaire.<br/>Je les ai installés dans ma salle de gaming pour bloquer les reflets du soleil, et depuis : plus aucun reflet et la pièce est bien plus fraîche.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_E47Kw6": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Rayan S.",
+            "heading_tag": "h4",
+            "content": "<p>\"Ils ne mentent pas quand ils disent 100 % occultant !<br/>J’ai failli trébucher dans ma chambre tellement il faisait noir… en pleine journée !\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_k3fbpE",
+        "item_bPyfUE",
+        "item_E47Kw6"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_Y897dr": {
+      "type": "featured-product",
+      "blocks": {
+        "title_YHxPpY": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_mk97Tt": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_pr8EDB": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_V8mewF": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_D3CqQy": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_bMmfjh": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_nGGVxe": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_A8c4rr": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_JqJhY9": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_zmt4pR": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_YHxPpY",
+        "badges_mk97Tt",
+        "price_pr8EDB",
+        "rating_V8mewF",
+        "separator_D3CqQy",
+        "description_bMmfjh",
+        "variant_picker_nGGVxe",
+        "quantity_selector_A8c4rr",
+        "buy_buttons_JqJhY9",
+        "pickup_availability_zmt4pR"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "store-occultant-total-obscur-zero-lumiere-100-confort",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -161,6 +316,8 @@
     "rich_text_BDXn7b",
     "image_with_text_overlay_rzzRpm",
     "video_KGzp98",
+    "multi_column_7b7WbE",
+    "featured_product_Y897dr",
     "faq"
   ]
 }
