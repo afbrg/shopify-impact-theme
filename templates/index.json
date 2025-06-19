@@ -9,6 +9,76 @@
  */
 {
   "sections": {
+    "image_with_text_overlay_xfdV6b": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_hNXhYF": {
+          "type": "heading",
+          "settings": {
+            "text": "Obscurité totale. Sommeil parfait.",
+            "heading_tag": "h3"
+          }
+        }
+      },
+      "block_order": [
+        "heading_hNXhYF"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/OBSCUR_1200_x_628_px_3200_x_1600_px.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_BDXn7b": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_R6n9gd": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Obscur ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_R6n9gd"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f1f1f1",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_rzzRpm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/OBSCUR_1200_x_628_px_3200_x_1600_px_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#000000",
+        "overlay_color": "#f1f1f1",
+        "overlay_opacity": 0
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -60,55 +130,12 @@
         "accordion_background": "",
         "accordion_text_color": ""
       }
-    },
-    "image_with_text_overlay_xfdV6b": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_hNXhYF": {
-          "type": "heading",
-          "settings": {
-            "text": "Obscurité totale. Sommeil parfait.",
-            "heading_tag": "h3"
-          }
-        }
-      },
-      "block_order": [
-        "heading_hNXhYF"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/OBSCUR_1200_x_628_px_3200_x_1600_px.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
-    "image_with_text_overlay_rzzRpm": {
-      "type": "image-with-text-overlay",
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/OBSCUR_1200_x_628_px_3200_x_1600_px_1.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
     }
   },
   "order": [
-    "faq",
     "image_with_text_overlay_xfdV6b",
-    "image_with_text_overlay_rzzRpm"
+    "rich_text_BDXn7b",
+    "image_with_text_overlay_rzzRpm",
+    "faq"
   ]
 }
