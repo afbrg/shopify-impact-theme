@@ -136,7 +136,7 @@
             "column_size": "3",
             "title": "Rayan S.",
             "heading_tag": "h4",
-            "content": "<p>\"Ils ne mentent pas quand ils disent 100 % occultant !<br/>J’ai failli trébucher dans ma chambre tellement il faisait noir… en pleine journée !\"<br/><br/></p>",
+            "content": "<p>\"Ils ne mentent pas quand ils disent 100 % occultants !<br/>J’ai failli trébucher dans ma chambre tellement il faisait noir… en pleine journée !\"<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -165,6 +165,12 @@
     "featured_product_Y897dr": {
       "type": "featured-product",
       "blocks": {
+        "liquid_MdC3cn": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Rating Widget</title>\n    <style>\n        body.unique-body-123 {\n            font-family: Arial, sans-serif;\n        }\n\n        .rating-widget-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .profile-images-123 {\n            display: flex;\n            align-items: center;\n            margin-right: 20px; /* Resimlerden uzaklaştırmak için artırıldı */\n        }\n\n        .profile-images-123 img {\n            width: 30px;\n            height: 30px;\n            border-radius: 50%;\n            margin-right: -10px;\n            border: 2px solid white;\n        }\n\n        .rating-123 {\n            display: flex;\n            align-items: center;\n        }\n\n        .rating-text-123 {\n            font-size: 14px; /* Font boyutu küçültüldü */\n        }\n\n        .highlight-123 {\n            color: #FF6347; /* Tomato color for highlights */\n            font-weight: bold;\n        }\n    </style>\n</head>\n<body class=\"unique-body-123\">\n\n    <div class=\"rating-widget-123\">\n        <div class=\"profile-images-123\">\n            <img src=\"https://randomuser.me/api/portraits/men/1.jpg\" alt=\"Profile 1\">\n            <img src=\"https://randomuser.me/api/portraits/women/1.jpg\" alt=\"Profile 2\">\n            <img src=\"https://randomuser.me/api/portraits/men/2.jpg\" alt=\"Profile 3\">\n        </div>\n        <div class=\"rating-123\">\n            <span class=\"rating-text-123\">Note de <span class=\"highlight-123\">4.9/5</span> basée sur <span class=\"highlight-123\">+ de 400 avis !  </span></span> \n        </div>\n    </div>\n\n</body>\n</html>"
+          }
+        },
         "title_YHxPpY": {
           "type": "title",
           "settings": {
@@ -179,6 +185,12 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_eqUNpt": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>SuperDeals Banner</title>\n    <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Oswald:wght@700&display=swap\" rel=\"stylesheet\">\n    <style>\n        .unique-body-Abc123 {\n            font-family: Arial, sans-serif;\n            background-color: #f0f2f5;\n            margin: 0;\n            padding: 20px;\n        }\n\n        .unique-deal-banner-Abc123 {\n            display: flex;\n            border-radius: 15px;\n            overflow: hidden;\n            font-family: 'Arial', sans-serif;\n            font-size: 14px;\n        }\n\n        .unique-deal-text-container-Abc123 {\n            background-color: #ff4d4d; /* Bir ton koyu kırmızı */\n            padding: 10px 20px;\n            display: flex;\n            align-items: center;\n        }\n\n        .unique-deal-text-Abc123 {\n            font-family: 'Roboto', sans-serif;\n            font-weight: 700;\n            color: white; /* Metin rengi beyaz */\n        }\n\n        .unique-deal-timer-container-Abc123 {\n            background-color: #ff6666; /* Açık kırmızı */\n            padding: 10px 20px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            flex-grow: 1;\n        }\n\n        .unique-deal-timer-Abc123 {\n            font-family: 'Oswald', sans-serif;\n            font-size: 16px;\n            font-weight: 700;\n            color: white;\n            animation: unique-timerAnimation-Abc123 1s ease-in-out infinite alternate;\n        }\n\n        @keyframes unique-timerAnimation-Abc123 {\n            0% { transform: scale(1); }\n            100% { transform: scale(1.1); }\n        }\n    </style>\n</head>\n<body class=\"unique-body-Abc123\">\n    <div class=\"unique-deal-banner-Abc123\">\n        <div class=\"unique-deal-text-container-Abc123\">\n            <span class=\"unique-deal-text-Abc123\">Offre de lancement</span>\n        </div>\n        <div class=\"unique-deal-timer-container-Abc123\">\n            <span class=\"unique-deal-timer-Abc123\" id=\"countdown\">se termine dans: 9d : 18 : 22 : 13</span>\n        </div>\n    </div>\n\n    <script>\n        function startCountdown() {\n            var countDownTime = 12 * 60 * 60 * 1000; // 12 hours in milliseconds\n            var countDownDate = new Date().getTime() + countDownTime;\n\n            var x = setInterval(function() {\n                var now = new Date().getTime();\n                var distance = countDownDate - now;\n\n                var days = Math.floor(distance / (1000 * 60 * 60 * 24));\n                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n                var seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n                document.getElementById(\"countdown\").innerHTML = \"se termine dans: \" + days + \"d : \" + hours + \" : \" + minutes + \" : \" + seconds;\n\n                if (distance < 0) {\n                    clearInterval(x);\n                    startCountdown(); // Restart the countdown\n                }\n            }, 1000);\n        }\n\n        startCountdown();\n    </script>\n</body>\n</html>"
           }
         },
         "rating_V8mewF": {
@@ -228,9 +240,11 @@
         }
       },
       "block_order": [
+        "liquid_MdC3cn",
         "title_YHxPpY",
         "badges_mk97Tt",
         "price_pr8EDB",
+        "liquid_eqUNpt",
         "rating_V8mewF",
         "separator_D3CqQy",
         "description_bMmfjh",
