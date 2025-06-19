@@ -102,8 +102,8 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "autoplay": false,
-        "video_size": "sm",
+        "autoplay": true,
+        "video_size": "fill",
         "video": "shopify://files/videos/4549d4cb357148739f61749767e601d1.mov",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
