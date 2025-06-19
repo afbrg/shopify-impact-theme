@@ -85,18 +85,10 @@
         "play_mqAkND": {
           "type": "play",
           "settings": {}
-        },
-        "heading_qG7pJY": {
-          "type": "heading",
-          "settings": {
-            "text": "Video",
-            "heading_tag": "h1"
-          }
         }
       },
       "block_order": [
-        "play_mqAkND",
-        "heading_qG7pJY"
+        "play_mqAkND"
       ],
       "name": "Video",
       "settings": {
@@ -104,7 +96,7 @@
         "allow_transparent_header": false,
         "autoplay": true,
         "video_size": "fill",
-        "video": "shopify://files/videos/4549d4cb357148739f61749767e601d1.mov",
+        "video": "shopify://files/videos/Untitled design.mp4",
         "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
