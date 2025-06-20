@@ -18,10 +18,22 @@
             "text": "Obscurité totale. Sommeil parfait.",
             "heading_tag": "h3"
           }
+        },
+        "button_xJjxTq": {
+          "type": "button",
+          "settings": {
+            "style": "outline",
+            "size": "base",
+            "text": "Votre store sur-mesure",
+            "url": "https://p8x604-n3.myshopify.com/products/store-occultant-total-obscur-zero-lumiere-100-confort",
+            "background": "rgba(0,0,0,0)",
+            "text_color": "#ffffff"
+          }
         }
       },
       "block_order": [
-        "heading_hNXhYF"
+        "heading_hNXhYF",
+        "button_xJjxTq"
       ],
       "name": "Image with text overlay",
       "settings": {
@@ -190,7 +202,7 @@
         "text_Bk7YHR": {
           "type": "text",
           "settings": {
-            "text": "<h3><a href=\"https://p8x604-n3.myshopify.com/products/store-occultant-total-obscur-zero-lumiere-100-confort\" target=\"_blank\" title=\"Découvrir Obscur\">Commandez votre store sur-mesure</a></h3>"
+            "text": "<h3><a href=\"https://p8x604-n3.myshopify.com/products/store-occultant-total-obscur-zero-lumiere-100-confort\" target=\"_blank\" title=\"Découvrir Obscur\">Commandez votre store sur-mesure.</a></h3>"
           }
         },
         "rating_V8mewF": {
