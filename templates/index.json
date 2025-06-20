@@ -177,6 +177,12 @@
             "heading_tag": "h2"
           }
         },
+        "liquid_6gpDF4": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "{{ apippa_calculator }}"
+          }
+        },
         "badges_mk97Tt": {
           "type": "badges",
           "settings": {}
@@ -242,6 +248,7 @@
       "block_order": [
         "liquid_MdC3cn",
         "title_YHxPpY",
+        "liquid_6gpDF4",
         "badges_mk97Tt",
         "price_pr8EDB",
         "liquid_eqUNpt",
