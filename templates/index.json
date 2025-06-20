@@ -177,26 +177,20 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_6gpDF4": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "{{ apippa_calculator }}"
-          }
-        },
         "badges_mk97Tt": {
           "type": "badges",
           "settings": {}
         },
-        "price_pr8EDB": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "liquid_eqUNpt": {
           "type": "liquid",
           "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>SuperDeals Banner</title>\n    <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Oswald:wght@700&display=swap\" rel=\"stylesheet\">\n    <style>\n        .unique-body-Abc123 {\n            font-family: Arial, sans-serif;\n            background-color: #f0f2f5;\n            margin: 0;\n            padding: 20px;\n        }\n\n        .unique-deal-banner-Abc123 {\n            display: flex;\n            border-radius: 15px;\n            overflow: hidden;\n            font-family: 'Arial', sans-serif;\n            font-size: 14px;\n        }\n\n        .unique-deal-text-container-Abc123 {\n            background-color: #ff4d4d; /* Bir ton koyu kırmızı */\n            padding: 10px 20px;\n            display: flex;\n            align-items: center;\n        }\n\n        .unique-deal-text-Abc123 {\n            font-family: 'Roboto', sans-serif;\n            font-weight: 700;\n            color: white; /* Metin rengi beyaz */\n        }\n\n        .unique-deal-timer-container-Abc123 {\n            background-color: #ff6666; /* Açık kırmızı */\n            padding: 10px 20px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            flex-grow: 1;\n        }\n\n        .unique-deal-timer-Abc123 {\n            font-family: 'Oswald', sans-serif;\n            font-size: 16px;\n            font-weight: 700;\n            color: white;\n            animation: unique-timerAnimation-Abc123 1s ease-in-out infinite alternate;\n        }\n\n        @keyframes unique-timerAnimation-Abc123 {\n            0% { transform: scale(1); }\n            100% { transform: scale(1.1); }\n        }\n    </style>\n</head>\n<body class=\"unique-body-Abc123\">\n    <div class=\"unique-deal-banner-Abc123\">\n        <div class=\"unique-deal-text-container-Abc123\">\n            <span class=\"unique-deal-text-Abc123\">Offre de lancement</span>\n        </div>\n        <div class=\"unique-deal-timer-container-Abc123\">\n            <span class=\"unique-deal-timer-Abc123\" id=\"countdown\">se termine dans: 9d : 18 : 22 : 13</span>\n        </div>\n    </div>\n\n    <script>\n        function startCountdown() {\n            var countDownTime = 12 * 60 * 60 * 1000; // 12 hours in milliseconds\n            var countDownDate = new Date().getTime() + countDownTime;\n\n            var x = setInterval(function() {\n                var now = new Date().getTime();\n                var distance = countDownDate - now;\n\n                var days = Math.floor(distance / (1000 * 60 * 60 * 24));\n                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n                var seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n                document.getElementById(\"countdown\").innerHTML = \"se termine dans: \" + days + \"d : \" + hours + \" : \" + minutes + \" : \" + seconds;\n\n                if (distance < 0) {\n                    clearInterval(x);\n                    startCountdown(); // Restart the countdown\n                }\n            }, 1000);\n        }\n\n        startCountdown();\n    </script>\n</body>\n</html>"
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>SuperDeals Banner</title>\n    <link href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@700&family=Oswald:wght@700&display=swap\" rel=\"stylesheet\">\n    <style>\n        .unique-body-Abc123 {\n            font-family: Arial, sans-serif;\n            background-color: #f0f2f5;\n            margin: 0;\n            padding: 20px;\n        }\n\n        .unique-deal-banner-Abc123 {\n            display: flex;\n            border-radius: 15px;\n            overflow: hidden;\n            font-family: 'Arial', sans-serif;\n            font-size: 14px;\n        }\n\n        .unique-deal-text-container-Abc123 {\n            background-color: #ff4d4d; /* Bir ton koyu kırmızı */\n            padding: 10px 20px;\n            display: flex;\n            align-items: center;\n        }\n\n        .unique-deal-text-Abc123 {\n            font-family: 'Roboto', sans-serif;\n            font-weight: 700;\n            color: white; /* Metin rengi beyaz */\n        }\n\n        .unique-deal-timer-container-Abc123 {\n            background-color: #ff6666; /* Açık kırmızı */\n            padding: 10px 20px;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            flex-grow: 1;\n        }\n\n        .unique-deal-timer-Abc123 {\n            font-family: 'Oswald', sans-serif;\n            font-size: 16px;\n            font-weight: 700;\n            color: white;\n            animation: unique-timerAnimation-Abc123 1s ease-in-out infinite alternate;\n        }\n\n        @keyframes unique-timerAnimation-Abc123 {\n            0% { transform: scale(1); }\n            100% { transform: scale(1.1); }\n        }\n    </style>\n</head>\n<body class=\"unique-body-Abc123\">\n    <div class=\"unique-deal-banner-Abc123\">\n        <div class=\"unique-deal-text-container-Abc123\">\n            <span class=\"unique-deal-text-Abc123\">Offre de lancement -30% </span>\n        </div>\n        <div class=\"unique-deal-timer-container-Abc123\">\n            <span class=\"unique-deal-timer-Abc123\" id=\"countdown\">se termine dans: 9d : 18 : 22 : 13</span>\n        </div>\n    </div>\n\n    <script>\n        function startCountdown() {\n            var countDownTime = 12 * 60 * 60 * 1000; // 12 hours in milliseconds\n            var countDownDate = new Date().getTime() + countDownTime;\n\n            var x = setInterval(function() {\n                var now = new Date().getTime();\n                var distance = countDownDate - now;\n\n                var days = Math.floor(distance / (1000 * 60 * 60 * 24));\n                var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));\n                var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));\n                var seconds = Math.floor((distance % (1000 * 60)) / 1000);\n\n                document.getElementById(\"countdown\").innerHTML = \"se termine dans: \" + days + \"d : \" + hours + \" : \" + minutes + \" : \" + seconds;\n\n                if (distance < 0) {\n                    clearInterval(x);\n                    startCountdown(); // Restart the countdown\n                }\n            }, 1000);\n        }\n\n        startCountdown();\n    </script>\n</body>\n</html>"
+          }
+        },
+        "text_Bk7YHR": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><a href=\"https://p8x604-n3.myshopify.com/products/store-occultant-total-obscur-zero-lumiere-100-confort\" target=\"_blank\" title=\"Découvrir Obscur\">Commandez votre store sur-mesure</a></h3>"
           }
         },
         "rating_V8mewF": {
@@ -225,21 +219,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector_A8c4rr": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
-        "buy_buttons_JqJhY9": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": true,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        },
         "pickup_availability_zmt4pR": {
           "type": "pickup_availability",
           "settings": {}
@@ -248,16 +227,13 @@
       "block_order": [
         "liquid_MdC3cn",
         "title_YHxPpY",
-        "liquid_6gpDF4",
         "badges_mk97Tt",
-        "price_pr8EDB",
         "liquid_eqUNpt",
+        "text_Bk7YHR",
         "rating_V8mewF",
         "separator_D3CqQy",
         "description_bMmfjh",
         "variant_picker_nGGVxe",
-        "quantity_selector_A8c4rr",
-        "buy_buttons_JqJhY9",
         "pickup_availability_zmt4pR"
       ],
       "name": "Featured product",
