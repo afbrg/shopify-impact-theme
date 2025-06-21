@@ -168,8 +168,22 @@
         "overlay_opacity": 0
       }
     },
+    "custom_liquid_6AtpyT": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .obscur-videos-container {\n    max-width: 1000px;\n    margin: 0 auto;\n    display: flex;\n    gap: 20px;\n    justify-content: center;\n    flex-wrap: nowrap;\n  }\n\n  .obscur-videos-container video {\n    flex: 1 1 0;\n    width: 100%;\n    height: auto;\n    border-radius: 12px;\n  }\n\n  @media (max-width: 768px) {\n    .obscur-videos-container {\n      flex-direction: column;\n      flex-wrap: wrap;\n    }\n  }\n</style>\n\n<div class=\"obscur-videos-container\">\n  <video autoplay muted loop playsinline>\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/37d180d61a3248bbb7e1d5232f9d2375.mp4\" type=\"video/mp4\">\n    Votre navigateur ne supporte pas la vidéo.\n  </video>\n  <video autoplay muted loop playsinline>\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/aa002e880273446ebef588b7642b5257.mp4\" type=\"video/mp4\">\n    Votre navigateur ne supporte pas la vidéo.\n  </video>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_XV3dbw": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
@@ -313,6 +327,7 @@
     "related-products",
     "rich_text_Mc7DzB",
     "image_with_text_overlay_LFEyXG",
+    "custom_liquid_6AtpyT",
     "video_XV3dbw",
     "multi_column_qY938T",
     "tabs_UN4PYG"
