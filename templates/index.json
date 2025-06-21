@@ -348,11 +348,32 @@
             "content": "<p>Les stores <strong>Obscur™</strong> sont conçus pour s’adapter à la plupart des fenêtres standards.</p><p><br/>Cependant, deux conditions doivent être respectées :</p><ul><li>parfaitement droite et rectangulaire (pas de formes arrondies ou irrégulières)<br/></li><li>espace d'encastrement libre d'au moins 3 cm de profondeur est nécessaire pour l'installation<br/></li></ul><h4>Exemples de fenêtres compatibles :</h4><ul><li>Fenêtres européennes</li><li>Fenêtres oscillo-battantes</li><li>Fenêtres fixes</li><li>Fenêtres coulissantes</li><li>Fenêtres à battants</li><li>Fenêtres à guillotine</li><li>Fenêtres en baie</li><li>Fenêtres à soufflet</li><li>Fenêtres de toit (type Velux)</li></ul>"
           }
         },
+        "item_9U4qVW": {
+          "type": "item",
+          "settings": {
+            "title": "Les stores couleur Quartz bloquent-ils totalement la lumière ?",
+            "content": "<p>Oui, les stores <strong>Quartz</strong> assurent une <strong>obscurité totale</strong>, tout comme les modèles <strong>Graphite</strong>.<br/>Leur efficacité est identique, seule la couleur intérieure varie.<br/><br/></p>"
+          }
+        },
         "item_PKFyzB": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Obscur™ nécessite-t-il un entretien particulier ?",
+            "content": "<p>Non, <strong>Obscur™ est très facile à entretenir</strong>.<br/>Le tissu polyester non tissé est <strong>anti-poussière</strong> et <strong>résistant aux taches</strong>. Un simple chiffon humide suffit pour le nettoyer. Aucun produit spécifique n’est requis.<br/><br/></p>"
+          }
+        },
+        "item_nebR8k": {
+          "type": "item",
+          "settings": {
+            "title": "Quel aspect a Obscur™ depuis l’extérieur ?",
+            "content": "<p>L’intérieur du store correspond à la <strong>couleur que vous avez choisie</strong> (Graphite ou Quartz).<br/>L’extérieur, lui, est <strong>toujours Quartz</strong>, afin de réfléchir la lumière et d’assurer un aspect <strong>uniforme depuis l’extérieur</strong> de votre habitation.<br/><br/></p>"
+          }
+        },
+        "item_grz4eC": {
+          "type": "item",
+          "settings": {
+            "title": "Quel aspect a Obscur™ depuis l’extérieur ?",
+            "content": "<p>L’intérieur du store correspond à la <strong>couleur que vous avez choisie</strong> (Graphite ou Quartz).<br/>L’extérieur, lui, est <strong>toujours Quartz</strong>, afin de réfléchir la lumière et d’assurer un aspect <strong>uniforme depuis l’extérieur</strong> de votre habitation.<br/><br/></p>"
           }
         }
       },
@@ -360,7 +381,10 @@
         "166442457738b23caf-0",
         "166442457738b23caf-1",
         "166442457738b23caf-2",
-        "item_PKFyzB"
+        "item_9U4qVW",
+        "item_PKFyzB",
+        "item_nebR8k",
+        "item_grz4eC"
       ],
       "settings": {
         "full_width": false,
