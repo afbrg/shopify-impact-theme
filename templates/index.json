@@ -93,15 +93,6 @@
     },
     "video_KGzp98": {
       "type": "video",
-      "blocks": {
-        "play_mqAkND": {
-          "type": "play",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "play_mqAkND"
-      ],
       "name": "Video",
       "settings": {
         "full_width": true,
