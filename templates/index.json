@@ -330,18 +330,25 @@
         "166442457738b23caf-0": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Qu’est-ce qui rend Obscur™ différent des autres stores occultants ?",
+            "content": "<p>Obscur™ se distingue par son <strong>système de rails latéraux exclusif</strong>, qui élimine totalement les espaces entre le store et le cadre de la fenêtre — garantissant une <strong>obscurité complète</strong>, même en pleine journée.</p><p>Nos stores utilisent un <strong>tissu double couche en nid d’abeille</strong>, associant du <strong>polyester non tissé</strong> à une <strong>barrière thermique réfléchissante</strong>.<br/><br/>Résultat : <strong>zéro lumière</strong>, meilleure <strong>isolation contre la chaleur</strong> et <strong>réduction des bruits extérieurs</strong>.</p>"
           }
         },
         "166442457738b23caf-1": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Quelles sont les dimensions du cadre ?",
+            "content": "<p>Le cadre mesure <strong>3,3 cm de largeur</strong> et <strong>3 cm de profondeur</strong>.<br/>Il est conçu pour s’intégrer parfaitement à l’intérieur du cadre de votre fenêtre, sans débordement ni perçage.<br/><br/></p>"
           }
         },
         "166442457738b23caf-2": {
+          "type": "item",
+          "settings": {
+            "title": "Obscur™ est-il compatible avec toutes les fenêtres ?",
+            "content": "<p>Les stores <strong>Obscur™</strong> sont conçus pour s’adapter à la plupart des fenêtres standards.</p><p><br/>Cependant, deux conditions doivent être respectées :</p><ul><li>parfaitement droite et rectangulaire (pas de formes arrondies ou irrégulières)<br/></li><li>espace d'encastrement libre d'au moins 3 cm de profondeur est nécessaire pour l'installation<br/></li></ul><h4>Exemples de fenêtres compatibles :</h4><ul><li>Fenêtres européennes</li><li>Fenêtres oscillo-battantes</li><li>Fenêtres fixes</li><li>Fenêtres coulissantes</li><li>Fenêtres à battants</li><li>Fenêtres à guillotine</li><li>Fenêtres en baie</li><li>Fenêtres à soufflet</li><li>Fenêtres de toit (type Velux)</li></ul>"
+          }
+        },
+        "item_PKFyzB": {
           "type": "item",
           "settings": {
             "title": "Any question?",
@@ -352,7 +359,8 @@
       "block_order": [
         "166442457738b23caf-0",
         "166442457738b23caf-1",
-        "166442457738b23caf-2"
+        "166442457738b23caf-2",
+        "item_PKFyzB"
       ],
       "settings": {
         "full_width": false,
