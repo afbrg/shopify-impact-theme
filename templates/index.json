@@ -281,8 +281,8 @@
         "tab_GCjwpT": {
           "type": "tab",
           "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "title": "Livraison gratuite",
+            "content": "<p>La livraison est <strong>offerte </strong>sur toutes les commandes.</p><p>Le délai de fabrication est de<strong> 2 à 3 semaines</strong>, car chaque store est réalisé <strong>sur mesure</strong>.<br/><br/>Une fois expédiée, la commande est livrée sous <strong>4 à 8 jours ouvrés</strong>.</p><p>Nous livrons en Europe, en Amérique et dans de nombreuses autres régions du monde.</p>",
             "page": ""
           }
         }
