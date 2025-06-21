@@ -168,6 +168,80 @@
         "overlay_opacity": 0
       }
     },
+    "video_XV3dbw": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/SnapTik-dot-Kim-63151132726780b03bf9dfe49f5fe47d.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "multi_column_qY938T": {
+      "type": "multi-column",
+      "blocks": {
+        "item_hyyLdL": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Stéphane R.",
+            "heading_tag": "h4",
+            "content": "<p>\"Je rentre chez moi à 6h du matin, donc en été c'était presque impossible de m’endormir. Mais avec ce store, plus besoin de me retourner dans tous les sens ou d’essayer de bloquer les rayons du soleil. Ça change tout !\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_eLMkCV": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Greg B.",
+            "heading_tag": "h4",
+            "content": "<p>\"J’étais un peu sceptique après avoir vu ces stores sur Instagram… la plupart des produits que j’y commande sont de mauvaise qualité ou décevants.<br/>Mais là, j’ai été agréablement surpris ! Montage super simple, aucun perçage nécessaire.<br/>Je les ai installés dans ma salle de gaming pour bloquer les reflets du soleil, et depuis : plus aucun reflet et la pièce est bien plus fraîche.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_nedD9m": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Rayan S.",
+            "heading_tag": "h4",
+            "content": "<p>\"Ils ne mentent pas quand ils disent 100 % occultants !<br/>J’ai failli trébucher dans ma chambre tellement il faisait noir… en pleine journée !\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_hyyLdL",
+        "item_eLMkCV",
+        "item_nedD9m"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Nos clients en parlent le mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "tabs_UN4PYG": {
       "type": "tabs",
       "blocks": {
@@ -239,6 +313,8 @@
     "related-products",
     "rich_text_Mc7DzB",
     "image_with_text_overlay_LFEyXG",
+    "video_XV3dbw",
+    "multi_column_qY938T",
     "tabs_UN4PYG"
   ]
 }
