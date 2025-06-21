@@ -125,10 +125,120 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "rich_text_Mc7DzB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_kVCxHH": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Obscur?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_kVCxHH"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "#f1f1f1",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_LFEyXG": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/OBSCUR_1200_x_628_px_3200_x_1600_px_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#000000",
+        "overlay_color": "#f1f1f1",
+        "overlay_opacity": 0
+      }
+    },
+    "tabs_UN4PYG": {
+      "type": "tabs",
+      "blocks": {
+        "tab_barUTm": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques du store Obscur™",
+            "content": "<ul><li>Design breveté pour une obscurité totale</li><li>Cadre en alliage d’aluminium haut de gamme</li><li>Tissu polyester non tissé opaque</li><li>Installation sans perçage en 5 minutes</li><li>Isolation thermique efficace</li><li>Réduction du bruit ambiant</li><li>Sans cordon — Sécurisé pour les enfants</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_pt8JJP": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez le 30 jours gratuitement",
+            "content": "<p>Nous offrons une <strong>politique de retour gratuite sous 30 jours</strong> sur toutes les commandes — même si le produit a été utilisé.</p><p>Pour initier un retour, contactez notre service client à l’adresse :<br/><br/>📩 <a><strong>support@obscurstores.com</strong></a></p>",
+            "page": ""
+          }
+        },
+        "tab_qNKQKM": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p>La livraison est <strong>offerte </strong>sur toutes les commandes.</p><p>Le délai de fabrication est de <strong>2 à 3 semaines</strong>, car chaque store est réalisé <strong>sur mesure</strong>.<br/><br/>Une fois expédiée, la commande est <strong>livrée </strong>sous <strong>4 à 8 jours ouvrés</strong>.</p><p>Nous livrons en Europe, en Amérique, et dans de nombreuses autres régions du monde.</p>",
+            "page": ""
+          }
+        },
+        "tab_W3pVkq": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment mesurer ma fenêtre ?",
+            "content": "<p>Chaque store Obscur est conçu sur mesure selon les dimensions exactes de votre fenêtre.<br/><br/>Pour un rendu parfait et une obscurité totale, il est essentiel de prendre des mesures précises et d’assurer une installation correcte.</p><p>Notre guide complet vous accompagne pas à pas pour éviter toute erreur de mesure.<br/><br/>📄 <a href=\"#\">Consulter le guide de mesure</a></p>",
+            "page": ""
+          }
+        },
+        "tab_y6MzK8": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment installer mon store Obscur™  ?",
+            "content": "<p>L’installation de votre store Obscur est rapide et facile, en seulement 5 minutes.<br/><br/>Aucun outil n’est nécessaire.</p><p>Suivez simplement notre guide d’installation détaillé pour chaque étape.</p><p>📄 <a href=\"#\">Consulter le guide d’installation</a></p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_barUTm",
+        "tab_pt8JJP",
+        "tab_qNKQKM",
+        "tab_W3pVkq",
+        "tab_y6MzK8"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
-    "related-products"
+    "related-products",
+    "rich_text_Mc7DzB",
+    "image_with_text_overlay_LFEyXG",
+    "tabs_UN4PYG"
   ]
 }
