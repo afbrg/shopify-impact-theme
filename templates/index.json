@@ -93,6 +93,7 @@
     },
     "video_KGzp98": {
       "type": "video",
+      "disabled": true,
       "name": "Video",
       "settings": {
         "full_width": true,
