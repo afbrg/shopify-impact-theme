@@ -413,10 +413,10 @@
       "name": "Contact form",
       "settings": {
         "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
-        "content": "",
-        "text_position": "start",
+        "subheading": "Notre équipe est disponible 7j/7 pour répondre à toutes vos questions avant ou après votre commande.",
+        "title": "Une question?",
+        "content": "<p>Écrivez-nous via le formulaire ci-dessous, et nous vous répondrons dans les plus brefs délais. </p>",
+        "text_position": "center",
         "contact_form_size": "large",
         "background": "",
         "background_gradient": "",
@@ -425,8 +425,8 @@
         "heading_gradient": "",
         "contact_background": "",
         "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
+        "button_background": "#f83a3a",
+        "button_text_color": "#ffffff"
       }
     }
   },
