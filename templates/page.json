@@ -71,7 +71,7 @@
         "richtext_hQEThg": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "content": "<p>Des mesures précises sont essentielles pour un store bien ajusté et une occultation optimale.<br/>Utilisez ce guide pour mesurer vos fenêtres avec soin et éviter les erreurs courantes.Besoin d’aide ou d’un conseil ?<br/>Notre équipe est là pour vous accompagner : écrivez-nous à <a><strong>support@obscurstores.com</strong></a>.</p>"
           }
         }
       },
@@ -89,11 +89,74 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "multi_column_33RVnE": {
+      "type": "multi-column",
+      "blocks": {
+        "item_jeUj6y": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/tape-measure-on-wood.jpg",
+            "column_size": "3",
+            "title": "Mètre ruban rigide",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_UPghFP": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/calligraphy-artist-writing-with-pen.jpg",
+            "column_size": "3",
+            "title": "Stylo et papier",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_da9Fm7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/man-holding-clipboard.jpg",
+            "column_size": "3",
+            "title": "Une personne pour vous aider",
+            "heading_tag": "h6",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_jeUj6y",
+        "item_UPghFP",
+        "item_da9Fm7"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Ce dont vous aurez besoin",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_rDgAN3",
-    "rich_text_W4bDnx"
+    "rich_text_W4bDnx",
+    "multi_column_33RVnE"
   ]
 }
