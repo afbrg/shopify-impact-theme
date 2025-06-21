@@ -273,16 +273,8 @@
         "tab_iV9QMJ": {
           "type": "tab",
           "settings": {
-            "title": "Essayez le 30 jours gratuitement",
+            "title": "Installation & Livraison",
             "content": "<p>Nous offrons une <strong>politique de retour gratuite sous 30 jours</strong> sur toutes les commandes — même si le produit a été utilisé.</p><p>Pour initier un retour, contactez notre service client à l’adresse :<br/><br/>📩 <a><strong>support@obscurstores.com</strong></a></p>",
-            "page": ""
-          }
-        },
-        "tab_GCjwpT": {
-          "type": "tab",
-          "settings": {
-            "title": "Livraison gratuite à domicile",
-            "content": "<p>La livraison est <strong>offerte </strong>sur toutes les commandes.</p><p>Le délai de fabrication est de<strong> 2 à 3 semaines</strong>, car chaque store est réalisé <strong>sur mesure</strong>.<br/><br/>Une fois expédiée, la commande est livrée sous <strong>4 à 8 jours ouvrés</strong>.</p><p>Nous livrons en Europe, en Amérique et dans de nombreuses autres régions du monde.</p>",
             "page": ""
           }
         },
@@ -297,8 +289,16 @@
         "tab_9G967p": {
           "type": "tab",
           "settings": {
-            "title": "Comment mesurer ?",
+            "title": "Comment mesurer ma fenêtre ?",
             "content": "<p>Chaque store Obscur est conçu sur mesure selon les dimensions exactes de votre fenêtre.<br/><br/>Pour un rendu parfait et une obscurité totale, il est essentiel de prendre des mesures précises et d’assurer une installation correcte.</p><p>Notre guide complet vous accompagne pas à pas pour éviter toute erreur de mesure.<br/><br/>📄 <a href=\"#\">Consulter le guide de mesure</a></p>",
+            "page": ""
+          }
+        },
+        "tab_tFxVfF": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment installer mon store Obscur™  ?",
+            "content": "<p>L’installation de votre store Obscur est rapide et facile, en seulement 5 minutes.<br/><br/>Aucun outil n’est nécessaire.</p><p>Suivez simplement notre guide d’installation détaillé pour chaque étape.</p><p>📄 <a href=\"#\">Consulter le guide d’installation</a></p>",
             "page": ""
           }
         }
@@ -306,9 +306,9 @@
       "block_order": [
         "tab_tVKy4y",
         "tab_iV9QMJ",
-        "tab_GCjwpT",
         "tab_TAyPkk",
-        "tab_9G967p"
+        "tab_9G967p",
+        "tab_tFxVfF"
       ],
       "name": "Tabs",
       "settings": {
