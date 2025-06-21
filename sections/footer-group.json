@@ -62,8 +62,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Secure payment",
-            "content": "<p>Tel your customers about your payment methods.</p>"
+            "title": "Paiement sécurisé",
+            "content": "<p><strong>Paiement 100% sécurisé par carte ou PayPal.</strong> Cryptage SSL garanti.<br/><br/></p>"
           }
         }
       },
