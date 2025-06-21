@@ -24,7 +24,7 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Livraison Gratuite",
-            "content": "<p>La livraison est offerte sur toutes les commandes.<br/><br/></p>"
+            "content": "<p>La livraison est <strong>offerte </strong>sur toutes les commandes.<br/><br/></p>"
           }
         },
         "customer-support": {
@@ -43,14 +43,14 @@
         "discount": {
           "type": "item",
           "settings": {
-            "icon": "picto-coupon",
+            "icon": "picto-customer-support",
             "mobile_icon_width": 24,
             "icon_width": 24,
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Refer a friend",
-            "content": "<p>Tell your customers about your promotional offers.</p>"
+            "title": "Service client",
+            "content": "<p>Notre équipe est disponible <strong>7j/7</strong> pour répondre à toutes vos questions avant ou après votre commande.<br/><br/></p>"
           }
         },
         "payment": {
