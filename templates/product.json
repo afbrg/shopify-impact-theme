@@ -181,22 +181,6 @@
         "text_color": ""
       }
     },
-    "video_XV3dbw": {
-      "type": "video",
-      "disabled": true,
-      "name": "Video",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "autoplay": true,
-        "video_size": "auto",
-        "video": "shopify://files/videos/SnapTik-dot-Kim-63151132726780b03bf9dfe49f5fe47d.mp4",
-        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 30
-      }
-    },
     "multi_column_qY938T": {
       "type": "multi-column",
       "blocks": {
@@ -328,7 +312,6 @@
     "rich_text_Mc7DzB",
     "image_with_text_overlay_LFEyXG",
     "custom_liquid_6AtpyT",
-    "video_XV3dbw",
     "multi_column_qY938T",
     "tabs_UN4PYG"
   ]
