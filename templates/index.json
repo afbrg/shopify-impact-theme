@@ -214,6 +214,7 @@
         },
         "variant_picker_nGGVxe": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "hide_sold_out_variants": false,
             "stack_blocks": true,
@@ -256,6 +257,53 @@
         "text_color": "",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
+      }
+    },
+    "tabs_8xaAb9": {
+      "type": "tabs",
+      "blocks": {
+        "tab_tVKy4y": {
+          "type": "tab",
+          "settings": {
+            "title": "Caractéristiques",
+            "content": "<ul><li>Design breveté pour une obscurité totale</li><li>Cadre en alliage d’aluminium haut de gamme</li><li>Tissu polyester non tissé opaque</li><li>Installation sans perçage en 5 minutes</li><li>Isolation thermique efficace</li><li>Réduction du bruit ambiant</li><li>Sans cordon — Sécurisé pour les enfants</li></ul>",
+            "page": ""
+          }
+        },
+        "tab_iV9QMJ": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez le 30 jours gratuitement",
+            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
+            "page": ""
+          }
+        },
+        "tab_GCjwpT": {
+          "type": "tab",
+          "settings": {
+            "title": "Tab 3",
+            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_tVKy4y",
+        "tab_iV9QMJ",
+        "tab_GCjwpT"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "Subheading",
+        "title": "Heading",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
       }
     },
     "faq": {
@@ -318,6 +366,7 @@
     "video_KGzp98",
     "multi_column_7b7WbE",
     "featured_product_Y897dr",
+    "tabs_8xaAb9",
     "faq"
   ]
 }
