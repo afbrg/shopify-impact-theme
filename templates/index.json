@@ -314,8 +314,8 @@
       "settings": {
         "full_width": true,
         "content_size": "medium",
-        "subheading": "Subheading",
-        "title": "Heading",
+        "subheading": "",
+        "title": "",
         "first_tab_open": false,
         "background": "",
         "background_gradient": "",
