@@ -372,8 +372,8 @@
         "item_grz4eC": {
           "type": "item",
           "settings": {
-            "title": "Quel aspect a Obscur™ depuis l’extérieur ?",
-            "content": "<p>L’intérieur du store correspond à la <strong>couleur que vous avez choisie</strong> (Graphite ou Quartz).<br/>L’extérieur, lui, est <strong>toujours Quartz</strong>, afin de réfléchir la lumière et d’assurer un aspect <strong>uniforme depuis l’extérieur</strong> de votre habitation.<br/><br/></p>"
+            "title": "Comment installer Obscur™ ?",
+            "content": "<p>L'installation ne prend que quelques minutes.<br/>Il vous suffit de suivre notre <a href=\"#\"><strong>guide d’installation pas à pas</strong></a>, sans outil ni perçage.<br/><br/></p>"
           }
         }
       },
