@@ -303,6 +303,135 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "faq_xiq7tf": {
+      "type": "faq",
+      "blocks": {
+        "item_9TBeEm": {
+          "type": "item",
+          "settings": {
+            "title": "Qu’est-ce qui rend Obscur™ différent des autres stores occultants ?",
+            "content": "<p>Obscur™ se distingue par son <strong>système de rails latéraux exclusif</strong>, qui élimine totalement les espaces entre le store et le cadre de la fenêtre — garantissant une <strong>obscurité complète</strong>, même en pleine journée.</p><p>Nos stores utilisent un <strong>tissu double couche en nid d’abeille</strong>, associant du <strong>polyester non tissé</strong> à une <strong>barrière thermique réfléchissante</strong>.<br/><br/>Résultat : <strong>zéro lumière</strong>, meilleure <strong>isolation contre la chaleur</strong> et <strong>réduction des bruits extérieurs</strong>.</p>"
+          }
+        },
+        "item_7gmzay": {
+          "type": "item",
+          "settings": {
+            "title": "Quelles sont les dimensions du cadre ?",
+            "content": "<p>Le cadre mesure <strong>3,3 cm de largeur</strong> et <strong>3 cm de profondeur</strong>.<br/>Il est conçu pour s’intégrer parfaitement à l’intérieur du cadre de votre fenêtre, sans débordement ni perçage.<br/><br/></p>"
+          }
+        },
+        "item_7TyUkM": {
+          "type": "item",
+          "settings": {
+            "title": "Obscur™ est-il compatible avec toutes les fenêtres ?",
+            "content": "<p>Les stores <strong>Obscur™</strong> sont conçus pour s’adapter à la plupart des fenêtres standards.</p><p><br/>Cependant, deux conditions doivent être respectées :</p><ul><li>parfaitement droite et rectangulaire (pas de formes arrondies ou irrégulières)<br/></li><li>espace d'encastrement libre d'au moins 3 cm de profondeur est nécessaire pour l'installation<br/></li></ul><h4>Exemples de fenêtres compatibles :</h4><ul><li>Fenêtres européennes</li><li>Fenêtres oscillo-battantes</li><li>Fenêtres fixes</li><li>Fenêtres coulissantes</li><li>Fenêtres à battants</li><li>Fenêtres à guillotine</li><li>Fenêtres en baie</li><li>Fenêtres à soufflet</li><li>Fenêtres de toit (type Velux)</li></ul>"
+          }
+        },
+        "item_nwVFGK": {
+          "type": "item",
+          "settings": {
+            "title": "Les stores couleur Quartz bloquent-ils totalement la lumière ?",
+            "content": "<p>Oui, les stores <strong>Quartz</strong> assurent une <strong>obscurité totale</strong>, tout comme les modèles <strong>Graphite</strong>.<br/>Leur efficacité est identique, seule la couleur intérieure varie.<br/><br/></p>"
+          }
+        },
+        "item_WbyAJf": {
+          "type": "item",
+          "settings": {
+            "title": "Obscur™ nécessite-t-il un entretien particulier ?",
+            "content": "<p>Non, <strong>Obscur™ est très facile à entretenir</strong>.<br/>Le tissu polyester non tissé est <strong>anti-poussière</strong> et <strong>résistant aux taches</strong>. Un simple chiffon humide suffit pour le nettoyer. Aucun produit spécifique n’est requis.<br/><br/></p>"
+          }
+        },
+        "item_wRzRBp": {
+          "type": "item",
+          "settings": {
+            "title": "Quel aspect a Obscur™ depuis l’extérieur ?",
+            "content": "<p>L’intérieur du store correspond à la <strong>couleur que vous avez choisie</strong> (Graphite ou Quartz).<br/>L’extérieur, lui, est <strong>toujours Quartz</strong>, afin de réfléchir la lumière et d’assurer un aspect <strong>uniforme depuis l’extérieur</strong> de votre habitation.<br/><br/></p>"
+          }
+        },
+        "item_QmX7bW": {
+          "type": "item",
+          "settings": {
+            "title": "Comment installer Obscur™ ?",
+            "content": "<p>L'installation ne prend que quelques minutes.<br/>Il vous suffit de suivre notre <a href=\"#\"><strong>guide d’installation pas à pas</strong></a>, sans outil ni perçage.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_9TBeEm",
+        "item_7gmzay",
+        "item_7TyUkM",
+        "item_nwVFGK",
+        "item_WbyAJf",
+        "item_wRzRBp",
+        "item_QmX7bW"
+      ],
+      "settings": {
+        "full_width": false,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "#ffffff",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "rich_text_YCn8Ak": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_wmxfHJ": {
+          "type": "heading",
+          "settings": {
+            "text": "Prêt à commander ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_ri8TMM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Vous avez terminé vos mesures ?<br/>Parfait — vous êtes maintenant prêt à commander votre store <strong>Obscur</strong> sur-mesure, pour un ajustement parfait et une occultation totale.<br/><br/></p>"
+          }
+        },
+        "button_F9ctGB": {
+          "type": "button",
+          "settings": {
+            "style": "fill",
+            "size": "xl",
+            "text": "Commander maintenant",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_wmxfHJ",
+        "richtext_ri8TMM",
+        "button_F9ctGB"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "large",
+        "text_position": "start",
+        "background": "#f1f1f1",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -312,6 +441,8 @@
     "multi_column_33RVnE",
     "images_with_text_scrolling_g8NCqt",
     "rich_text_VVdbnG",
-    "rich_text_GMpfYb"
+    "rich_text_GMpfYb",
+    "faq_xiq7tf",
+    "rich_text_YCn8Ak"
   ]
 }
