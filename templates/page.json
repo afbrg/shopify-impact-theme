@@ -204,6 +204,25 @@
             "title": "Étape 3 : Mesurer la hauteur",
             "content": "<p>Il est maintenant temps de mesurer la hauteur de l’embrasure de votre fenêtre.<br/>Là encore, prenez trois mesures à différents endroits :</p><ul><li>À gauche de l’embrasure</li><li>Au centre de l’embrasure</li><li>À droite de l’embrasure</li></ul><p>Notez la plus petite des trois mesures.<br/>Comme pour la largeur, cela garantit un ajustement parfait, même si l’ouverture n’est pas parfaitement droite.<br/><br/></p>"
           }
+        },
+        "item_trXr6T": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/eviter_erreur.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Évitez les erreurs de mesure courantes",
+            "content": "<p>Pour obtenir des mesures précises, veillez à ne pas commettre ces erreurs fréquentes :</p><ul><li>Mesurer en biais : tenez toujours le mètre bien droit et à niveau.</li><li>Plier le mètre : assurez-vous qu’il reste bien tendu et droit pendant la mesure.</li><li>Arrondir de façon incorrecte : si nécessaire, arrondissez au millimètre le plus proche pour plus de précision.<br/><br/></li></ul>"
+          }
+        },
+        "item_VeCifn": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
         }
       },
       "block_order": [
@@ -211,7 +230,9 @@
         "item_eUPgY9",
         "item_wYnarT",
         "item_tbLkYM",
-        "item_wAKfpk"
+        "item_wAKfpk",
+        "item_trXr6T",
+        "item_VeCifn"
       ],
       "name": "Images and text scrolling",
       "settings": {
