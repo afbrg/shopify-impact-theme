@@ -151,12 +151,85 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "images_with_text_scrolling_g8NCqt": {
+      "type": "images-with-text-scrolling",
+      "blocks": {
+        "item_cKD8iH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Recess_1200_x_1600_px_1.png",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Étape 1 : Mesurer la profondeur de l’embrasure",
+            "content": "<p>Avant de mesurer la largeur et la hauteur de votre fenêtre, il est essentiel de vérifier la <strong>profondeur disponible</strong> à l’intérieur du cadre.</p><ul><li><strong>Profondeur minimale requise</strong> : 3 centimètres pour une installation correcte.<br/></li><li><strong>Pourquoi c'est important</strong> : cela garantit que le store peut être placé sans être gêné par des poignées ou des obstacles.<br/></li><li><strong>Comment mesurer </strong>: placez votre mètre au bord intérieur du cadre (côté intérieur de la pièce) et mesurez jusqu’au point le plus proche de la vitre. Si un obstacle (poignée, etc.) est présent, mesurez jusqu’à celui-ci.<br/></li></ul><p>📏 Si vous avez moins de 3 cm, une pose en applique (extérieur du cadre) sera plus adaptée.</p>"
+          }
+        },
+        "item_eUPgY9": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/etape_1-2.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Attention aux obstacles",
+            "content": "<p>Des obstacles courants à l’intérieur de l’embrasure peuvent gêner l’installation, notamment :</p><ul><li>Les poignées de fenêtre</li><li>Les loquets</li><li>Les verrous</li><li>Les manivelles ou systèmes d’ouverture à levier</li></ul>"
+          }
+        },
+        "item_wYnarT": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_GbKhDy": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "item_PA8kfk": {
+          "type": "item",
+          "settings": {
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_cKD8iH",
+        "item_eUPgY9",
+        "item_wYnarT",
+        "item_GbKhDy",
+        "item_PA8kfk"
+      ],
+      "name": "Images and text scrolling",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "show_counter": false,
+        "desktop_image_effect": "reveal",
+        "image_position": "end",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
     }
   },
   "order": [
     "main",
     "image_with_text_overlay_rDgAN3",
     "rich_text_W4bDnx",
-    "multi_column_33RVnE"
+    "multi_column_33RVnE",
+    "images_with_text_scrolling_g8NCqt"
   ]
 }
