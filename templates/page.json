@@ -171,8 +171,8 @@
             "image": "shopify://shop_images/etape_1-2.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Attention aux obstacles",
-            "content": "<p>Des obstacles courants à l’intérieur de l’embrasure peuvent gêner l’installation, notamment :</p><ul><li>Les poignées de fenêtre</li><li>Les loquets</li><li>Les verrous</li><li>Les manivelles ou systèmes d’ouverture à levier</li></ul>"
+            "title": "",
+            "content": "<h3><br/>Attention aux obstacles</h3><p><br/><br/>Des obstacles courants à l’intérieur de l’embrasure peuvent gêner l’installation, notamment :</p><ul><li>Les poignées de fenêtre</li><li>Les loquets</li><li>Les verrous</li><li>Les manivelles ou systèmes d’ouverture à levier</li></ul>"
           }
         },
         "item_wYnarT": {
@@ -185,22 +185,14 @@
             "content": "<h3>Mesurer avec des obstacles</h3><p>Même si l’embrasure de votre fenêtre est profonde, certains obstacles peuvent empêcher le store de se fermer correctement. Pour garantir une installation optimale :<br/></p><p></p><ol><li>Mesurez la profondeur totale de l’embrasure, depuis le bord intérieur jusqu’à la vitre.</li><li>Mesurez la profondeur de l’obstacle, depuis la vitre jusqu’à l’avant de l’obstacle (ex. : une poignée).</li><li>Soustrayez la profondeur de l’obstacle à la profondeur totale de l’embrasure:<br/>vous obtenez la zone exploitable sans obstruction.<br/><strong><br/>Important : vous devez avoir au moins 3 cm d’espace libre sans obstacle pour installer correctement le store Obscur.</strong></li></ol>"
           }
         },
-        "item_GbKhDy": {
+        "item_tbLkYM": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/etape_2-1.webp",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
-          }
-        },
-        "item_PA8kfk": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "Étape 2 : Mesurer la largeur",
+            "content": "<p>Comme les fenêtres ne sont pas toujours parfaitement droites, il est important de mesurer la largeur à trois endroits différents afin de prendre en compte les éventuelles irrégularités :<br/></p><ul><li>En haut de l’embrasure</li><li>Au milieu de l’embrasure</li><li>En bas de l’embrasure</li></ul><p>Notez la plus petite des trois mesures.<br/>Cela garantit que votre store Obscur s’adapte parfaitement au point le plus étroit de la fenêtre.</p>"
           }
         }
       },
@@ -208,8 +200,7 @@
         "item_cKD8iH",
         "item_eUPgY9",
         "item_wYnarT",
-        "item_GbKhDy",
-        "item_PA8kfk"
+        "item_tbLkYM"
       ],
       "name": "Images and text scrolling",
       "settings": {
