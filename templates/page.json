@@ -194,13 +194,24 @@
             "title": "Étape 2 : Mesurer la largeur",
             "content": "<p>Comme les fenêtres ne sont pas toujours parfaitement droites, il est important de mesurer la largeur à trois endroits différents afin de prendre en compte les éventuelles irrégularités :<br/></p><ul><li>En haut de l’embrasure</li><li>Au milieu de l’embrasure</li><li>En bas de l’embrasure</li></ul><p>Notez la plus petite des trois mesures.<br/>Cela garantit que votre store Obscur s’adapte parfaitement au point le plus étroit de la fenêtre.</p>"
           }
+        },
+        "item_wAKfpk": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/etape_3.webp",
+            "icon": "none",
+            "icon_width": 48,
+            "title": "Étape 3 : Mesurer la hauteur",
+            "content": "<p>Il est maintenant temps de mesurer la hauteur de l’embrasure de votre fenêtre.<br/>Là encore, prenez trois mesures à différents endroits :</p><ul><li>À gauche de l’embrasure</li><li>Au centre de l’embrasure</li><li>À droite de l’embrasure</li></ul><p>Notez la plus petite des trois mesures.<br/>Comme pour la largeur, cela garantit un ajustement parfait, même si l’ouverture n’est pas parfaitement droite.<br/><br/></p>"
+          }
         }
       },
       "block_order": [
         "item_cKD8iH",
         "item_eUPgY9",
         "item_wYnarT",
-        "item_tbLkYM"
+        "item_tbLkYM",
+        "item_wAKfpk"
       ],
       "name": "Images and text scrolling",
       "settings": {
