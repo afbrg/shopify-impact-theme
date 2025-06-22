@@ -241,12 +241,6 @@
     "rich_text_VVdbnG": {
       "type": "rich-text",
       "blocks": {
-        "subheading_tQPic6": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        },
         "heading_eNnB7e": {
           "type": "heading",
           "settings": {
@@ -264,14 +258,46 @@
         }
       },
       "block_order": [
-        "subheading_tQPic6",
         "heading_eNnB7e",
         "richtext_w7DUCw"
       ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
+        "text_position": "start",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_GMpfYb": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_mKCGKm": {
+          "type": "heading",
+          "settings": {
+            "text": "Et si je me suis trompé dans mes mesures ?",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        },
+        "richtext_CCXfD9": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p><br/>Pas d’inquiétude !<br/>Si vous pensez avoir fait une erreur lors de la prise de mesures, contactez-nous dès que possible à <a><strong>support@obscurstores.com</strong></a>.<br/>Nous ferons le nécessaire pour corriger les dimensions avant la mise en production de votre store.<br/><br/></p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_mKCGKm",
+        "richtext_CCXfD9"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
         "text_position": "start",
         "background": "",
         "background_gradient": "",
@@ -285,6 +311,7 @@
     "rich_text_W4bDnx",
     "multi_column_33RVnE",
     "images_with_text_scrolling_g8NCqt",
-    "rich_text_VVdbnG"
+    "rich_text_VVdbnG",
+    "rich_text_GMpfYb"
   ]
 }
