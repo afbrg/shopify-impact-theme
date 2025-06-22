@@ -21,14 +21,14 @@
         "heading_GUMde3": {
           "type": "heading",
           "settings": {
-            "text": "Guide de mesure",
-            "heading_tag": "h1"
+            "text": "Comment installer votre store Obscur™ ?",
+            "heading_tag": "h2"
           }
         },
         "richtext_6QcjEz": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Bienvenue dans notre guide de mesure. Pour garantir un ajustement parfait de votre store Obscur, suivez attentivement les étapes ci-dessous.</p>"
+            "content": "<p>Suivez ce guide simple pour installer votre store Obscur rapidement et en toute sécurité.  <br/>Aucune compétence technique n’est requise : seulement quelques outils et quelques minutes suffisent.<br/><br/>Temps d’installation estimé : <strong>moins de 10 minutes.</strong></p>"
           }
         }
       },
@@ -42,23 +42,17 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "sm",
-        "image": "shopify://shop_images/Recess.png",
+        "image": "shopify://shop_images/installguide.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 63
       }
     },
     "rich_text_W4bDnx": {
       "type": "rich-text",
       "blocks": {
-        "subheading_eFwaN6": {
-          "type": "subheading",
-          "settings": {
-            "text": "Subheading"
-          }
-        },
         "heading_B9neUw": {
           "type": "heading",
           "settings": {
@@ -76,7 +70,6 @@
         }
       },
       "block_order": [
-        "subheading_eFwaN6",
         "heading_B9neUw",
         "richtext_hQEThg"
       ],
