@@ -178,10 +178,11 @@
         "item_wYnarT": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Recess_1200_x_1600_px.png",
             "icon": "none",
             "icon_width": 48,
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+            "title": "",
+            "content": "<h3>Mesurer avec des obstacles</h3><p>Même si l’embrasure de votre fenêtre est profonde, certains obstacles peuvent empêcher le store de se fermer correctement. Pour garantir une installation optimale :<br/></p><p></p><ol><li>Mesurez la profondeur totale de l’embrasure, depuis le bord intérieur jusqu’à la vitre.</li><li>Mesurez la profondeur de l’obstacle, depuis la vitre jusqu’à l’avant de l’obstacle (ex. : une poignée).</li><li>Soustrayez la profondeur de l’obstacle à la profondeur totale de l’embrasure:<br/>vous obtenez la zone exploitable sans obstruction.<br/><strong><br/>Important : vous devez avoir au moins 3 cm d’espace libre sans obstacle pour installer correctement le store Obscur.</strong></li></ol>"
           }
         },
         "item_GbKhDy": {
