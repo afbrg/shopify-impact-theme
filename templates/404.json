@@ -49,10 +49,53 @@
         "overlay_color": "#000000",
         "overlay_opacity": 30
       }
+    },
+    "rich_text_CrPqnr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Tbg6qc": {
+          "type": "heading",
+          "settings": {
+            "text": "POURQUOI CHOISIR LYSTÈNE ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tbg6qc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_9GafJp": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
     }
   },
   "order": [
     "main",
-    "image_with_text_overlay_WzgXUh"
+    "image_with_text_overlay_WzgXUh",
+    "rich_text_CrPqnr",
+    "image_with_text_overlay_9GafJp"
   ]
 }
