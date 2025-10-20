@@ -64,7 +64,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/OBSCUR_1.png",
+        "logo": "shopify://shop_images/Lystene_1.png",
         "logo_max_width": 180,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
@@ -80,7 +80,7 @@
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
         "reduce_padding": false,
-        "background_opacity": 100,
+        "background_opacity": 52,
         "background_blur_radius": 0
       }
     }
