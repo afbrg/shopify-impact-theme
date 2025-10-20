@@ -14,17 +14,17 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_mrAGBT": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% sécurisé",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
             "text": "Offre de lancement : - 30%",
-            "url": ""
-          }
-        },
-        "message_Qbxrxf": {
-          "type": "message",
-          "settings": {
-            "text": "Store Sur-Mesure",
             "url": ""
           }
         },
@@ -44,8 +44,8 @@
         }
       },
       "block_order": [
+        "message_mrAGBT",
         "message",
-        "message_Qbxrxf",
         "message_tKURPt",
         "message_VR7rGB"
       ],
