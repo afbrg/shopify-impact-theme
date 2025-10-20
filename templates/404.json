@@ -118,68 +118,29 @@
         "text_color": ""
       }
     },
-    "image_link_blocks_6Hr7ie": {
-      "type": "image-link-blocks",
-      "blocks": {
-        "item_UNbKrr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/DM_20250919144802_001.gif",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_UGGqaL": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/DM_20250919144813_001.gif",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        },
-        "item_xHGqkz": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/DM_20250919144806_001.gif",
-            "stretch_image": true,
-            "link_text": "",
-            "link_url": "",
-            "background": "",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 0
-          }
-        }
-      },
-      "block_order": [
-        "item_UNbKrr",
-        "item_UGGqaL",
-        "item_xHGqkz"
-      ],
-      "name": "Image link blocks",
+    "before_after_image_PeUMdd": {
+      "type": "before-after-image",
+      "name": "Before/after image",
       "settings": {
-        "full_width": false,
-        "block_size": "medium",
+        "full_width": true,
         "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "",
+        "title": "AVANT / APRÈS",
+        "content": "<p><strong>Voyez la différence. Ressentez l’effet Lystène.</strong></p><p></p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-20_232149.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-20_232214.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
         "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
       }
     }
   },
@@ -189,6 +150,6 @@
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
     "rich_text_hrkLk8",
-    "image_link_blocks_6Hr7ie"
+    "before_after_image_PeUMdd"
   ]
 }
