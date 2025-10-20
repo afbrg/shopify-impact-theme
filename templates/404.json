@@ -92,42 +92,41 @@
         "overlay_opacity": 0
       }
     },
-    "rich_text_hrkLk8": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_mGRc4U": {
-          "type": "heading",
-          "settings": {
-            "text": "RÉSULTAT AVANT / APRÈS",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_mGRc4U"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "small",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "before_after_image_PeUMdd": {
       "type": "before-after-image",
       "name": "Before/after image",
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "AVANT / APRÈS",
-        "content": "<p><strong>Voyez la différence. Ressentez l’effet Lystène.</strong></p><p></p>",
+        "title": "AVANT / APRÈS LYSTÈNE",
+        "content": "<h6>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/></h6>",
         "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-20_232149.png",
         "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-20_232214.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_dWzL84": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "AVANT / APRÈS LYSTÈNE",
+        "content": "<h5>Des résultats visibles, dès les premières applications.</h5><p></p>",
+        "before_image": "shopify://shop_images/DM_20250919151817_001.png",
+        "after_image": "shopify://shop_images/DM_20250919151817_001.png",
         "expand_image": false,
         "text_position": "center",
         "before_after_text_position": "bottom",
@@ -149,7 +148,7 @@
     "image_with_text_overlay_WzgXUh",
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
-    "rich_text_hrkLk8",
-    "before_after_image_PeUMdd"
+    "before_after_image_PeUMdd",
+    "before_after_image_dWzL84"
   ]
 }
