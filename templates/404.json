@@ -117,29 +117,53 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "before_after_image_dWzL84": {
-      "type": "before-after-image",
-      "name": "Before/after image",
+    "multi_column_wMWR8w": {
+      "type": "multi-column",
+      "blocks": {
+        "item_ingmdJ": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_12.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_7YJpUi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Design_sans_titre_61_a5d9202b-3e61-4a64-8b22-04954973260c.png",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_ingmdJ",
+        "item_7YJpUi"
+      ],
+      "custom_css": [],
+      "name": "Multi-column",
       "settings": {
-        "full_width": true,
+        "full_width": false,
+        "stack_on_mobile": false,
+        "gap": "large",
+        "text_alignment": "center",
         "subheading": "",
-        "title": "AVANT / APRÈS LYSTÈNE",
-        "content": "<h5>Des résultats visibles, dès les premières applications.</h5><p></p>",
-        "before_image": "shopify://shop_images/DM_20250919151817_001.png",
-        "after_image": "shopify://shop_images/DM_20250919151817_001.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "AVANT",
-        "after_text": "APRÈS",
-        "drag_initial_position": 50,
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
         "background": "",
         "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#1a1a1a",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
+        "text_color": ""
       }
     }
   },
@@ -149,6 +173,6 @@
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
     "before_after_image_PeUMdd",
-    "before_after_image_dWzL84"
+    "multi_column_wMWR8w"
   ]
 }
