@@ -544,8 +544,15 @@
         "item_4qAXej": {
           "type": "item",
           "settings": {
-            "title": "Question",
-            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+            "title": "🚫 Est-ce que le produit pique ou tire sur la peau ?",
+            "content": "<p>Non, au contraire.<br/>La texture est <strong>fraîche et légère</strong>, sans effet collant ni tiraillement.<br/>Le <strong>rouleau métallique</strong> procure une <strong>sensation apaisante</strong> et aide à décongestionner le contour des yeux.</p>"
+          }
+        },
+        "item_YdwaQJ": {
+          "type": "item",
+          "settings": {
+            "title": "💧 Combien de temps dure un flacon ?",
+            "content": "<p>Un flacon de 10 ml dure en moyenne <strong>1 à 2 mois</strong>, selon la fréquence d’utilisation.<br/>Quelques passages suffisent à chaque application.</p>"
           }
         }
       },
@@ -555,7 +562,8 @@
         "item_X7p6FQ",
         "item_iRdnBg",
         "item_a4PVbL",
-        "item_4qAXej"
+        "item_4qAXej",
+        "item_YdwaQJ"
       ],
       "name": "FAQ",
       "settings": {
