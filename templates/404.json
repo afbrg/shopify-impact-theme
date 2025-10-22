@@ -133,6 +133,30 @@
             "link_style": "link"
           }
         },
+        "spacer_WcdVqV": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "12"
+          }
+        },
+        "spacer_JgQLbk": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "12"
+          }
+        },
+        "spacer_MP4ek9": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "12"
+          }
+        },
+        "spacer_gaRdJ7": {
+          "type": "spacer",
+          "settings": {
+            "column_size": "12"
+          }
+        },
         "item_7YJpUi": {
           "type": "item",
           "settings": {
@@ -149,11 +173,13 @@
       },
       "block_order": [
         "item_ingmdJ",
+        "spacer_WcdVqV",
+        "spacer_JgQLbk",
+        "spacer_MP4ek9",
+        "spacer_gaRdJ7",
         "item_7YJpUi"
       ],
-      "custom_css": [
-        ".multicolumn-card {justify-content: center;}"
-      ],
+      "custom_css": [],
       "name": "Multi-column",
       "settings": {
         "full_width": false,
@@ -161,8 +187,8 @@
         "gap": "large",
         "text_alignment": "center",
         "subheading": "",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
