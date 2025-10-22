@@ -27,7 +27,7 @@
         "richtext_kWHe8k": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Hydratation, éclat et fermeté, à tout moment de la journée.</p>"
+            "content": "<h5>Le soin express qui lisse, illumine et réveille votre regard en un seul geste.</h5>"
           }
         }
       },
@@ -399,14 +399,6 @@
     "tabs_FTEfWf": {
       "type": "tabs",
       "blocks": {
-        "tab_BP7WHy": {
-          "type": "tab",
-          "settings": {
-            "title": "Caractéristiques",
-            "content": "<p>🤎 <strong>Légèreté Absolue & Éclat Instantané</strong> – Illumine immédiatement la peau et <strong>révèle son éclat naturel</strong>.</p><p>⭐️ <strong>Purifie, Matifie & Lisse</strong> – <strong>Nettoie en profondeur</strong>, régule la brillance et laisse la peau <strong>douce et parfaitement hydratée</strong>.</p><p>🌟 <strong>Unifie le Teint & Ravive l’Éclat</strong> – <strong>Estompe visiblement les taches</strong> et redonne à la peau <strong>toute sa clarté et sa luminosité</strong>.</p>",
-            "page": ""
-          }
-        },
         "tab_KVhDng": {
           "type": "tab",
           "settings": {
@@ -422,12 +414,20 @@
             "content": "<p><br/>Offrez-vous l’éclat sans attendre.<br/><br/>Profitez de la <strong>livraison 100% gratuite</strong> sur toutes vos commandes, partout en France.<br/><br/>Parce que la beauté ne devrait jamais avoir de frais cachés. ✨<br/><br/></p>",
             "page": ""
           }
+        },
+        "tab_YtRnfr": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7j/7",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7j/7.</p><p>Vous pouvez nous contacter par email, nous nous engageons à vous répondre sous 24h. </p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
-        "tab_BP7WHy",
         "tab_KVhDng",
-        "tab_JNBW7P"
+        "tab_JNBW7P",
+        "tab_YtRnfr"
       ],
       "name": "Tabs",
       "settings": {
