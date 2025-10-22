@@ -555,11 +555,11 @@
             "content": "<p>Un flacon de 10 ml dure en moyenne <strong>1 à 2 mois</strong>, selon la fréquence d’utilisation.<br/>Quelques passages suffisent à chaque application.</p>"
           }
         },
-        "item_MD7aFq": {
+        "item_ed4iyB": {
           "type": "item",
           "settings": {
-            "title": "💡 Peut-on l’utiliser avec du maquillage ?",
-            "content": "<p>Oui. Lystène s’applique avant le maquillage pour lisser la peau et prolonger la tenue du fond de teint.Il peut aussi s’utiliser en retouche dans la journée, sans altérer le maquillage.</p>"
+            "title": "🚚 Quels sont les délais et conditions de livraison ?",
+            "content": "<p>Nous offrons la <strong>livraison gratuite</strong> sur toutes les commandes.<br/>Les délais varient de <strong>5 à 10 jours ouvrés</strong>, selon votre localisation.</p>"
           }
         }
       },
@@ -571,7 +571,7 @@
         "item_a4PVbL",
         "item_4qAXej",
         "item_YdwaQJ",
-        "item_MD7aFq"
+        "item_ed4iyB"
       ],
       "name": "FAQ",
       "settings": {
