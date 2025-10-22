@@ -84,6 +84,48 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/ACTION_CIBLEE_Lisse_et_illumine_instantanement_4.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_BnpnrL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P8WyBk": {
+          "type": "heading",
+          "settings": {
+            "text": "Des actifs puissants, une formule clean.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_P8WyBk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_zwB3zB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
         "image": "shopify://shop_images/ACTION_CIBLEE_Lisse_et_illumine_instantanement.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
@@ -449,6 +491,8 @@
     "image_with_text_overlay_WzgXUh",
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
+    "rich_text_BnpnrL",
+    "image_with_text_overlay_zwB3zB",
     "before_after_image_PeUMdd",
     "before_after_image_qQCaNC",
     "before_after_image_7K4Wwr",
