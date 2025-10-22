@@ -561,6 +561,13 @@
             "title": "🚚 Quels sont les délais et conditions de livraison ?",
             "content": "<p>Nous offrons la <strong>livraison gratuite</strong> sur toutes les commandes.<br/>Les délais varient de <strong>5 à 10 jours ouvrés</strong>, selon votre localisation.</p>"
           }
+        },
+        "item_imAYDC": {
+          "type": "item",
+          "settings": {
+            "title": "😕 Et si Lystène ne répond pas à mes attentes ?",
+            "content": "<p>Nous comprenons parfaitement : chaque peau est unique.<br/><br/>Si malgré une utilisation régulière vous n’êtes pas satisfaite des résultats, <strong>vous pouvez nous contacter dans les 30 jours suivant la réception</strong> pour bénéficier d’un <strong>remboursement ou d’un échange</strong>.<br/><br/>Notre équipe est à votre écoute pour comprendre votre expérience et trouver la meilleure solution pour vous.</p>"
+          }
         }
       },
       "block_order": [
@@ -571,7 +578,8 @@
         "item_a4PVbL",
         "item_4qAXej",
         "item_YdwaQJ",
-        "item_ed4iyB"
+        "item_ed4iyB",
+        "item_imAYDC"
       ],
       "name": "FAQ",
       "settings": {
