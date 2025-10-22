@@ -7,7 +7,633 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
+ 
 {
-  "sections": {},
-  "order": []
+  "sections": {
+    "main": {
+      "type": "main-not-found",
+      "disabled": true,
+      "settings": {}
+    },
+    "image_with_text_overlay_WzgXUh": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "heading_DJWVaA": {
+          "type": "heading",
+          "settings": {
+            "text": "Sublimez votre regard, où que vous soyez.",
+            "heading_tag": "h1"
+          }
+        },
+        "richtext_kWHe8k": {
+          "type": "richtext",
+          "settings": {
+            "content": "<h5>Le soin express qui lisse, illumine et réveille votre regard en un seul geste.</h5>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_DJWVaA",
+        "richtext_kWHe8k"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ChatGPT_Image_20_oct._2025_16_11_01.png",
+        "mobile_image": "shopify://shop_images/ChatGPT_Image_20_oct._2025_16_11_01.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
+    "rich_text_CrPqnr": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_Tbg6qc": {
+          "type": "heading",
+          "settings": {
+            "text": "POURQUOI CHOISIR LYSTÈNE ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_Tbg6qc"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_9GafJp": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ACTION_CIBLEE_Lisse_et_illumine_instantanement_4.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "rich_text_BnpnrL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_P8WyBk": {
+          "type": "heading",
+          "settings": {
+            "text": "Des actifs puissants, une formule clean.",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_P8WyBk"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_zwB3zB": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/ACTION_CIBLEE_Lisse_et_illumine_instantanement_1.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "before_after_image_PeUMdd": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "AVANT/APRÈS LYSTÈNE",
+        "title": "Effet lissant immédiat",
+        "content": "<p>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/><br/><br/></p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080830.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080838.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_qQCaNC": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "AVANT/APRÈS LYSTÈNE",
+        "title": "Regard reposé & lumineux",
+        "content": "<p>Ravive l’éclat du regard et réduit visiblement les signes de fatigue.<br/>Le contour des yeux paraît plus frais, plus lisse et naturellement lumineux dès la première utilisation.<br/><br/></p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080327.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080445.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_7K4Wwr": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "AVANT/APRÈS LYSTÈNE",
+        "title": "Peau repulpée et éclat naturel",
+        "content": "<p>L’acide hyaluronique et les extraits de raisin redonnent du volume et de la vitalité à la peau.<br/>Jour après jour, le teint devient plus uniforme et la texture visiblement plus douce.<br/><br/></p>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-20_232149.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-20_232214.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "multi_column_AJC8ty": {
+      "type": "multi-column",
+      "blocks": {
+        "item_MHf36w": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DM_20250919144802_001.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_zFACTV": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DM_20250919144806_001.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AQk6Bt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DM_20250919144813_001.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_MHf36w",
+        "item_zFACTV",
+        "item_AQk6Bt"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "Des résultats impressionants en moins de 10 secondes !",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_bkcUan": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_rRUnDg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Customer Rating</title>\n  <style>\n    body.unique-body-Qaz123 {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      background-color: #fff;\n    }\n\n    .unique-rating-container-Wsx456 {\n      display: flex;\n      align-items: center;\n      font-size: 14px;\n      color: #333; /* Metin rengi */\n    }\n\n    .unique-rating-stars-Edc789 {\n      display: flex;\n      margin-right: 8px;\n    }\n\n    .unique-rating-stars-Edc789 svg {\n      fill: #FFD700; /* Sarı yıldız rengi */\n      width: 16px; /* Küçültülmüş yıldız boyutu */\n      height: 16px; /* Küçültülmüş yıldız boyutu */\n      transition: transform 0.3s;\n    }\n\n    .unique-rating-stars-Edc789 svg:hover {\n      transform: scale(1.3); /* Üzerine gelince büyütme */\n    }\n\n    .unique-rating-text-Rfv012 {\n      font-size: 14px;\n      color: #333; /* Metin rengi */\n    }\n  </style>\n</head>\n<body class=\"unique-body-Qaz123\">\n\n<div class=\"unique-rating-container-Wsx456\">\n  <div class=\"unique-rating-stars-Edc789\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n  </div>\n  <span class=\"unique-rating-text-Rfv012\">Noté 4.8/5 par + de 1500 clients!</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "title_bAqL4Y": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_9PBFJG": {
+          "type": "badges",
+          "settings": {}
+        },
+        "liquid_8FXMm6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 20px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    Plus que 8 articles à ce prix !\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Stock limité – ne tardez pas !!\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
+        "price_a3wFCw": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "liquid_9cKAhD": {
+          "type": "liquid",
+          "disabled": true,
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap\">\n    <style>\n        .unique-deal-badge-Xyz789 {\n            display: inline-flex;\n            align-items: center;\n            font-family: 'Roboto', sans-serif; /* Using Roboto font */\n            font-size: 20px;\n        }\n\n        .unique-highlight-Abc123 {\n            background-color: #ffcccc; /* Light red background */\n            padding: 2px 5px;\n            border-radius: 3px;\n            font-weight: bold;\n            color: #000;\n        }\n\n        .unique-highlight-Abc123 .unique-deals-Def456 {\n            color: #cc0000; /* Darker red text */\n        }\n\n        .unique-extra-Ghi789 {\n            color: #cc0000; /* Darker red text */\n            margin-left: 5px;\n            animation: unique-blink-Jkl012 2s infinite; /* Slower blinking animation */\n        }\n\n        @keyframes unique-blink-Jkl012 {\n            0%, 50%, 100% {\n                opacity: 1;\n            }\n            25%, 75% {\n                opacity: 0;\n            }\n        }\n    </style>\n    <title>Deal Badge</title>\n</head>\n<body class=\"unique-body-Mno345\">\n    <div class=\"unique-deal-badge-Xyz789\">\n        <div class=\"unique-highlight-Abc123\">\n            Super<span class=\"unique-deals-Def456\">Deals</span>\n        </div>\n        <div class=\"unique-extra-Ghi789\">• 2 ACHETÉS, UN OFFERT ! \n    </div>\n</body>\n</html>"
+          }
+        },
+        "rating_dMzBpt": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_C3kMiK": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_CYxTmq": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_UkHaVr": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "block_swatch",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_wVEDd9": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "liquid_NGAKxz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
+        "liquid_et7ybM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>In Cart Alert</title>\n    <style>\n        .alert-container-KL234 {\n            display: flex;\n            align-items: center;\n            font-family: Arial, sans-serif;\n            font-size: 16px;\n            color: #333;\n            margin: 2px 0; /* Yukarı ve aşağı 2 px boşluk ekleme */\n        }\n        .icon-wrapper-MN567 {\n            margin-right: 5px; /* Metne daha yakın yapmak için azaltıldı */\n        }\n        .icon-wrapper-MN567 img {\n            width: 24px; /* İkonun boyutu büyütüldü */\n        }\n        .alert-text-OP890 {\n            font-weight: normal;\n        }\n        .highlight-text-QR123 {\n            color: #000; /* Daha koyu siyah renk */\n            font-weight: bold;\n            animation: pulse-ST456 1.5s infinite;\n        }\n        @keyframes pulse-ST456 {\n            0%, 100% {\n                transform: scale(1);\n            }\n            50% {\n                transform: scale(1.1);\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"alert-container-KL234\">\n        <div class=\"icon-wrapper-MN567\">\n            <img src=\"https://www.svgrepo.com/show/521847/shopping-cart.svg\" alt=\"Shopping Cart Icon\">\n        </div>\n        <span class=\"alert-text-OP890\"><span class=\"highlight-text-QR123\">1115 </span> personnes ont ce produit dans leur panier. Dêpéchez-vous !</span>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "buy_buttons_9QAB3d": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": false,
+            "atc_button_background": "#e0c8a6",
+            "atc_button_text_color": "#1a1a1a",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "liquid_8J9Xe8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Responsive Full-Width Design</title>\n  <style>\n    body.uniqueBodyIdentifier_ab89x73lmn {\n      font-family: Arial, sans-serif;\n      margin: 0;\n      padding: 0;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      background-color: transparent;\n    }\n\n    .contentWrapper_xz98mn45qwe {\n      width: 100%; /* Genişlik %100 olarak kalır */\n      text-align: center;\n    }\n\n    .textAboveButton_12lm45xzq {\n      font-size: 20px; /* Üst metin boyutu */\n      margin-bottom: 10px;\n      color: #4a4a4a; /* Normal metin rengi */\n    }\n\n    .textAboveButton_12lm45xzq span.highlight_89mnx12opq {\n      color: #000; /* Satış sayısı siyah ve bold */\n      font-weight: 500;\n    }\n\n    .buttonStyle_xz23mn89qwe {\n      display: inline-block;\n      width: 100%; /* Buton genişliği %100 */\n      font-size: 16px;\n      font-weight: 500;\n      color: ##c2a35d; /* Buton yazı rengi */\n      background: linear-gradient(to right, #34d2a0, #30a560); /* Gradyan renkler */\n      padding: 15px; /* Mobilde tıklama kolaylığı için padding artırıldı */\n      border-radius: 4px;\n      cursor: pointer;\n      text-decoration: none;\n      transition: background 0.3s ease;\n      border: none;\n      box-sizing: border-box;\n    }\n\n    .buttonStyle_xz23mn89qwe:hover {\n      background: linear-gradient(to right, #30a560, #34d2a0); /* Hover için gradyan ters çevrildi */\n    }\n\n    /* Mobil uyum için medya sorgusu */\n    \n@media\n (max-width: 768px) {\n      .textAboveButton_12lm45xzq {\n        font-size: 16px; /* Üst metin mobilde küçültüldü */\n      }\n\n      .buttonStyle_xz23mn89qwe {\n        font-size: 14px; /* Buton yazısı boyutu küçültüldü */\n        padding: 12px; /* Daha dar ekranlarda padding azaltıldı */\n      }\n    }\n\n    \n@media\n (max-width: 480px) {\n      .textAboveButton_12lm45xzq {\n        font-size: 14px; /* Daha küçük ekranlar için yazı boyutu */\n      }\n\n      .buttonStyle_xz23mn89qwe {\n        font-size: 13px; /* Buton yazı boyutu daha da küçültüldü */\n        padding: 10px; /* Tıklama alanı optimize edildi */\n      }\n    }\n  </style>\n</head>\n<body class=\"uniqueBodyIdentifier_ab89x73lmn\">\n  <div class=\"contentWrapper_xz98mn45qwe\">\n    <div class=\"textAboveButton_12lm45xzq\">\n      <span h\n    </div>\n    <a href=\"#\" class=\"buttonStyle_xz23mn89qwe\">Essayez sans risque : si vous n’êtes pas satisfait, nous vous remboursons.</a>\n  </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_cHNtaA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Pay in 4 Parts</title>\n    <style>\n        .unique-body {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #ffffff;\n        }\n        .unique-payment-container {\n            display: flex;\n            align-items: center;\n        }\n        .unique-text {\n            font-size: 18px;\n            margin-right: 10px;\n            color: #999;\n        }\n        .unique-logo-container {\n            display: flex;\n            align-items: center;\n        }\n        .unique-logo {\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            position: relative;\n            cursor: pointer;\n        }\n        .unique-logo img {\n            height: 40px;\n        }\n        .unique-tooltip {\n            visibility: hidden;\n            width: 140px;\n            background-color: #333;\n            color: #fff;\n            text-align: center;\n            border-radius: 6px;\n            padding: 8px 0;\n            position: absolute;\n            z-index: 1;\n            bottom: 150%; /* Bilgi çubuğunu logonun üzerine yerleştirin */\n            left: 50%;\n            margin-left: -70px;\n            opacity: 0;\n            transition: opacity 0.3s;\n        }\n        .unique-tooltip::after {\n            content: \"\";\n            position: absolute;\n            top: 100%; /* Bilgi çubuğunun altındaki ok */\n            left: 50%;\n            margin-left: -5px;\n            border-width: 5px;\n            border-style: solid;\n            border-color: #333 transparent transparent transparent;\n        }\n        .unique-logo:hover .unique-tooltip {\n            visibility: visible;\n            opacity: 1;\n        }\n    </style>\n</head>\n<body class=\"unique-body\">\n    <div class=\"unique-payment-container\">\n        <div class=\"unique-text\">Pay in 4 parts with</div>\n        <div class=\"unique-logo-container\">\n            <div class=\"unique-logo\" onclick=\"window.location.href='https://www.klarna.com'\">\n                <img src=\"https://www.svgrepo.com/show/508697/klarna.svg\" alt=\"Klarna\">\n                <div class=\"unique-tooltip\">Klarna Payment</div>\n            </div>\n        </div>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_XfEdeb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Logos de Paiement</title>\n  <style>\n    .icon-container {\n      display: flex;\n      gap: 10px;\n      align-items: center;\n      justify-content: center;\n      margin-top: 30px;\n    }\n\n    .icon {\n      width: 40px;\n      height: auto;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"icon-container\">\n    <!-- Apple Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288\" alt=\"Apple Pay\">\n\n    <!-- Google Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/images.png?v=1746126288\" alt=\"Google Pay\">\n\n    <!-- PayPal -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg\" alt=\"PayPal\">\n\n    <!-- Mastercard -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\">\n\n    <!-- Visa -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\">\n\n    <!-- American Express -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/hd-amex-american-express-logo-png-701751694708970jttzjjyo6e.png?v=1746126288\" alt=\"American Express\">\n  </div>"
+          }
+        },
+        "liquid_8eneWJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"features-container\">\n  <div class=\"feature\">\n    <span class=\"feature-icon\">🚚</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">LIVRAISON GRATUITE</h3>\n      <p class=\"feature-description\">Free Tracked Delivery on All Orders</p>\n    </div>\n  </div>\n  <div class=\"feature\">\n    <span class=\"feature-icon\">✅</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">SATISFAIT OU REMBOURSÉ</h3>\n      <p class=\"feature-description\">Our 30-Day Money-Back Guarantee</p>\n    </div>\n  </div>\n  <div class=\"divider horizontal-divider\"></div>\n  <div class=\"divider vertical-divider\"></div>\n  <div class=\"feature\">\n    <span class=\"feature-icon\">👍</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">APPROUVÉ PAR NOS CLIENTS</h3>\n      <p class=\"feature-description\">Trusted by Shoppers - 5 Star rated product and service!</p>\n    </div>\n  </div>\n  <div class=\"feature\">\n    <span class=\"feature-icon\">📞</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">SERVICE CLIENT RÉACTIF</h3>\n      <p class=\"feature-description\">Assistance at Your Fingertips: We're Here for You</p>\n    </div>\n  </div>\n</div>\n \n<style>\n.features-container {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 1rem;\n  position: relative;\n  max-width: 600px;\n  margin: auto;\n}\n \n.feature {\n  display: flex;\n  align-items: center;\n}\n \n.feature-icon {\n  font-size: 35px; /* Icon size */\n  margin-right: 12px; /* Space between icon and text */\n}\n \n.feature-text {\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n}\n \n.feature-title {\n  font-size: 25px; /* Title size */\n  margin: 0;\n}\n \n.feature-description {\n  font-size: 0px; /* Description size */\n  margin: 0;\n}\n \n.divider {\n  background-color: #ccc; /* Line color */\n  position: absolute;\n}\n \n.horizontal-divider {\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 1px; /* Line thickness */\n  transform: translateY(-50%);\n}\n \n.vertical-divider {\n  top: 0;\n  bottom: 0;\n  left: 50%;\n  width: 1px; /* Line thickness */\n  transform: translateX(-50%);\n}\n \n@media (max-width: 600px) {\n  .features-container {\n    grid-template-columns: 1fr;\n  }\n \n  .horizontal-divider, .vertical-divider {\n    display: none;\n  }\n}\n</style>"
+          }
+        },
+        "pickup_availability_Pb4e7h": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "liquid_rRUnDg",
+        "title_bAqL4Y",
+        "badges_9PBFJG",
+        "liquid_8FXMm6",
+        "price_a3wFCw",
+        "liquid_9cKAhD",
+        "rating_dMzBpt",
+        "separator_C3kMiK",
+        "description_CYxTmq",
+        "variant_picker_UkHaVr",
+        "quantity_selector_wVEDd9",
+        "liquid_NGAKxz",
+        "liquid_et7ybM",
+        "buy_buttons_9QAB3d",
+        "liquid_8J9Xe8",
+        "liquid_cHNtaA",
+        "liquid_XfEdeb",
+        "liquid_8eneWJ",
+        "pickup_availability_Pb4e7h"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "anti-rides-express-lystene",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "tabs_FTEfWf": {
+      "type": "tabs",
+      "blocks": {
+        "tab_KVhDng": {
+          "type": "tab",
+          "settings": {
+            "title": "ingrédients",
+            "content": "<h2>🌿 <strong>Naturel & sincère</strong></h2><h5>Chez Lystène, nous sommes convaincus qu’une peau belle commence par une formule claire et honnête : </h5><ul><li><strong>Camellia Sinensis Leaf Extract (Thé vert)</strong> – Décongestionne et apaise instantanément.<br/></li><li><strong>Niacinamide (Vitamine B3)</strong> – Lisse et unifie le teint.<br/></li><li><strong>Aqua (Eau)</strong> – Base hydratante pure.<br/></li><li><strong>Glycerin</strong> – Hydrate et adoucit durablement la peau.<br/></li><li><strong>Hydrogenated Castor Oil (Huile de ricin hydrogénée)</strong> – Nourrit et renforce la barrière cutanée.<br/></li><li><strong>Ethylhexylglycerin</strong> – Agent adoucissant et protecteur naturel.<br/></li><li><strong>Tocopherol (Vitamine E)</strong> – Protège des radicaux libres et prévient le vieillissement cutané.<br/></li><li><strong>Vitis Vinifera (Grape) Seed Extract</strong> – Riche en antioxydants, ravive l’éclat du teint.<br/></li><li><strong>Vitis Vinifera (Grape) Fruit Extract</strong> – Repulpe et illumine la peau.<br/></li><li><strong>Hyaluronic Acid (Acide Hyaluronique)</strong> – Lisse immédiatement et hydrate en profondeur.<br/></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_99YHLC": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment utiliser lystène ?",
+            "content": "<h2>🌿 <strong>Comment utiliser Lystène – Anti-Rides Express</strong></h2><h3>①</h3><p><strong>Nettoyez et séchez délicatement</strong> le visage et le contour des yeux.</p><h3>②</h3><p><strong>Appuyez légèrement sur la bille</strong> pour libérer le soin, puis appliquez-le uniformément sur les zones concernées (yeux, front, sillons).</p><h3>③</h3><p><strong>Faites rouler la bille</strong> en mouvements doux pour favoriser la pénétration et stimuler la microcirculation.</p><p><br/>💡 <em>Astuce : pour un effet encore plus frais, conservez votre roll-on au réfrigérateur.</em></p>",
+            "page": ""
+          }
+        },
+        "tab_wjQkmD": {
+          "type": "tab",
+          "settings": {
+            "title": "Essayez-le 30 jours !",
+            "content": "<p>Essayez <strong>LYSTÈNE – Anti-Rides Express</strong> sans aucun risque.<br/><br/>Profitez de <strong>30 jours </strong>pour découvrir une peau plus lisse, plus éclatante et naturellement reposée.<br/><br/>Si vous n’êtes pas conquise, nous vous remboursons ! <br/><br/>Parce que la confiance commence par la transparence. 💛</p>",
+            "page": ""
+          }
+        },
+        "tab_JNBW7P": {
+          "type": "tab",
+          "settings": {
+            "title": "Livraison gratuite à domicile",
+            "content": "<p><br/>Offrez-vous l’éclat sans attendre.<br/><br/>Profitez de la <strong>livraison 100% gratuite</strong> sur toutes vos commandes, partout en France.<br/><br/>Parce que la beauté ne devrait jamais avoir de frais cachés. ✨<br/><br/></p>",
+            "page": ""
+          }
+        },
+        "tab_YtRnfr": {
+          "type": "tab",
+          "settings": {
+            "title": "Service client 7j/7",
+            "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7j/7.</p><p>Vous pouvez nous contacter par email, nous nous engageons à vous répondre sous 24h. </p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_KVhDng",
+        "tab_99YHLC",
+        "tab_wjQkmD",
+        "tab_JNBW7P",
+        "tab_YtRnfr"
+      ],
+      "name": "Tabs",
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "subheading": "",
+        "title": "",
+        "first_tab_open": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": ""
+      }
+    },
+    "faq_7ahfAL": {
+      "type": "faq",
+      "blocks": {
+        "item_cKbeik": {
+          "type": "item",
+          "settings": {
+            "title": "🧴 Le produit agit-il vraiment en 10 secondes ?",
+            "content": "<p>Oui. Son effet tenseur est <strong>immédiat</strong> grâce à la synergie de <strong>niacinamide, caféine et acide hyaluronique</strong>, qui lissent visiblement la peau dès l’application.</p><p><br/>Cet effet instantané est temporaire (comme une “remise à neuf express”), mais l’utilisation régulière <strong>améliore la fermeté et l’éclat</strong> sur le long terme.</p>"
+          }
+        },
+        "item_kNRANg": {
+          "type": "item",
+          "settings": {
+            "title": "👁️‍🗨️ Est-ce que Lystène convient à tous les types de peau ?",
+            "content": "<p>Oui. Sa formule est <strong>testée dermatologiquement</strong>, <strong>sans silicones ni ingrédients agressifs</strong>, et <strong>adaptée même aux peaux sensibles</strong>.<br/><br/>Elle hydrate, apaise et renforce la barrière cutanée grâce à l’extrait de thé vert et à la glycérine végétale.<br/></p>"
+          }
+        },
+        "item_X7p6FQ": {
+          "type": "item",
+          "settings": {
+            "title": "⏳ Est-ce que les résultats sont durables ?",
+            "content": "<p>L’effet “lisse instantané” dure plusieurs heures après application.<br/></p><p>Mais à long terme, la <strong>niacinamide</strong>, le <strong>thé vert</strong> et le <strong>raisin</strong> contribuent à <strong>réduire les ridules et unifier le teint</strong> au fil des semaines.<br/><br/>C’est donc un soin <strong>express mais aussi progressif</strong>.<br/><br/></p>"
+          }
+        },
+        "item_iRdnBg": {
+          "type": "item",
+          "settings": {
+            "title": "⚠️ Est-ce qu’il contient des ingrédients nocifs ou controversés ?",
+            "content": "<p>Non. Lystène est formulé <strong>sans parabènes, sans silicones, sans parfum artificiel ni huile minérale.</strong><br/>La formule est <strong>vegan, cruelty-free</strong>, et fabriquée selon les <strong>normes européennes</strong> de sécurité cosmétique.<br/><br/></p>"
+          }
+        },
+        "item_a4PVbL": {
+          "type": "item",
+          "settings": {
+            "title": "🌿 Quelle est la différence avec une crème anti-âge classique ?",
+            "content": "<p>Une crème agit lentement en profondeur, tandis que Lystène offre un <strong>résultat visible immédiat</strong>, idéal pour <strong>les matins pressés, les rendez-vous ou les retouches express.</strong><br/><br/>Son <strong>format roll-on</strong> permet une application précise, hygiénique et sans gaspillage.</p>"
+          }
+        },
+        "item_4qAXej": {
+          "type": "item",
+          "settings": {
+            "title": "🚫 Est-ce que le produit pique ou tire sur la peau ?",
+            "content": "<p>Non, au contraire.<br/>La texture est <strong>fraîche et légère</strong>, sans effet collant ni tiraillement.<br/>Le <strong>rouleau métallique</strong> procure une <strong>sensation apaisante</strong> et aide à décongestionner le contour des yeux.</p>"
+          }
+        },
+        "item_YdwaQJ": {
+          "type": "item",
+          "settings": {
+            "title": "💧 Combien de temps dure un flacon ?",
+            "content": "<p>Un flacon de 10 ml dure en moyenne <strong>1 à 2 mois</strong>, selon la fréquence d’utilisation.<br/>Quelques passages suffisent à chaque application.</p>"
+          }
+        },
+        "item_ed4iyB": {
+          "type": "item",
+          "settings": {
+            "title": "🚚 Quels sont les délais et conditions de livraison ?",
+            "content": "<p>Nous offrons la <strong>livraison gratuite</strong> sur toutes les commandes.<br/>Les délais varient de <strong>5 à 10 jours ouvrés</strong>, selon votre localisation.</p><p>Nous livrons dans le monde entier.</p>"
+          }
+        },
+        "item_imAYDC": {
+          "type": "item",
+          "settings": {
+            "title": "😕 Et si Lystène ne répond pas à mes attentes ?",
+            "content": "<p>Nous comprenons parfaitement : chaque peau est unique.<br/><br/>Si malgré une utilisation régulière vous n’êtes pas satisfaite des résultats, <strong>vous pouvez nous contacter dans les 30 jours suivant la réception</strong> pour bénéficier d’un <strong>remboursement ou d’un échange</strong>.<br/><br/>Notre équipe est à votre écoute pour comprendre votre expérience et trouver la meilleure solution pour vous.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_cKbeik",
+        "item_kNRANg",
+        "item_X7p6FQ",
+        "item_iRdnBg",
+        "item_a4PVbL",
+        "item_4qAXej",
+        "item_YdwaQJ",
+        "item_ed4iyB",
+        "item_imAYDC"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
+    },
+    "contact_4x7mwU": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "Notre service clientèle est disponible 7 jours sur 7. Temps de réponse moyen : 24h",
+        "title": "Une question ?",
+        "content": "<p>Écrivez-nous via le formulaire ci dessous et nous vous répondrons dans les plus brefs délais. </p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#000000",
+        "button_text_color": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image_with_text_overlay_WzgXUh",
+    "rich_text_CrPqnr",
+    "image_with_text_overlay_9GafJp",
+    "rich_text_BnpnrL",
+    "image_with_text_overlay_zwB3zB",
+    "before_after_image_PeUMdd",
+    "before_after_image_qQCaNC",
+    "before_after_image_7K4Wwr",
+    "multi_column_AJC8ty",
+    "featured_product_bkcUan",
+    "tabs_FTEfWf",
+    "faq_7ahfAL",
+    "contact_4x7mwU"
+  ]
 }
