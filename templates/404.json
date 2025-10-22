@@ -117,54 +117,93 @@
         "drag_cursor_color": "#000000"
       }
     },
-    "multi_column_wMWR8w": {
+    "before_after_image_qQCaNC": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "AVANT / APRÈS LYSTÈNE",
+        "content": "<h6>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/></h6>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080327.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080445.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "before_after_image_7K4Wwr": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "AVANT / APRÈS LYSTÈNE",
+        "content": "<h6>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/></h6>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080830.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080838.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
+    "multi_column_AJC8ty": {
       "type": "multi-column",
       "blocks": {
-        "item_ingmdJ": {
+        "item_MHf36w": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_12.png",
+            "image": "shopify://shop_images/DM_20250919144802_001.gif",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
           }
         },
-        "spacer_WcdVqV": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "12"
-          }
-        },
-        "spacer_JgQLbk": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "12"
-          }
-        },
-        "spacer_MP4ek9": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "12"
-          }
-        },
-        "spacer_gaRdJ7": {
-          "type": "spacer",
-          "settings": {
-            "column_size": "12"
-          }
-        },
-        "item_7YJpUi": {
+        "item_zFACTV": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Design_sans_titre_61_a5d9202b-3e61-4a64-8b22-04954973260c.png",
+            "image": "shopify://shop_images/DM_20250919144806_001.gif",
             "column_size": "3",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AQk6Bt": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/DM_20250919144813_001.gif",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -172,23 +211,128 @@
         }
       },
       "block_order": [
-        "item_ingmdJ",
-        "spacer_WcdVqV",
-        "spacer_JgQLbk",
-        "spacer_MP4ek9",
-        "spacer_gaRdJ7",
-        "item_7YJpUi"
+        "item_MHf36w",
+        "item_zFACTV",
+        "item_AQk6Bt"
       ],
-      "custom_css": [],
       "name": "Multi-column",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "stack_on_mobile": false,
-        "gap": "large",
+        "gap": "medium",
         "text_alignment": "center",
         "subheading": "",
-        "title": "",
+        "title": "Des résultats impressionants en moins de 10 secondes !",
         "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "featured_product_bkcUan": {
+      "type": "featured-product",
+      "blocks": {
+        "title_bAqL4Y": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_9PBFJG": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_a3wFCw": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_dMzBpt": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_C3kMiK": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_CYxTmq": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_UkHaVr": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_wVEDd9": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_9QAB3d": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_Pb4e7h": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "title_bAqL4Y",
+        "badges_9PBFJG",
+        "price_a3wFCw",
+        "rating_dMzBpt",
+        "separator_C3kMiK",
+        "description_CYxTmq",
+        "variant_picker_UkHaVr",
+        "quantity_selector_wVEDd9",
+        "buy_buttons_9QAB3d",
+        "pickup_availability_Pb4e7h"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "anti-rides-express-lystene",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "custom_liquid_FFBzXi": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -201,6 +345,10 @@
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
     "before_after_image_PeUMdd",
-    "multi_column_wMWR8w"
+    "before_after_image_qQCaNC",
+    "before_after_image_7K4Wwr",
+    "multi_column_AJC8ty",
+    "featured_product_bkcUan",
+    "custom_liquid_FFBzXi"
   ]
 }
