@@ -232,6 +232,12 @@
     "featured_product_bkcUan": {
       "type": "featured-product",
       "blocks": {
+        "liquid_rRUnDg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Customer Rating</title>\n  <style>\n    body.unique-body-Qaz123 {\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      margin: 0;\n      background-color: #fff;\n    }\n\n    .unique-rating-container-Wsx456 {\n      display: flex;\n      align-items: center;\n      font-size: 14px;\n      color: #333; /* Metin rengi */\n    }\n\n    .unique-rating-stars-Edc789 {\n      display: flex;\n      margin-right: 8px;\n    }\n\n    .unique-rating-stars-Edc789 svg {\n      fill: #FFD700; /* Sarı yıldız rengi */\n      width: 16px; /* Küçültülmüş yıldız boyutu */\n      height: 16px; /* Küçültülmüş yıldız boyutu */\n      transition: transform 0.3s;\n    }\n\n    .unique-rating-stars-Edc789 svg:hover {\n      transform: scale(1.3); /* Üzerine gelince büyütme */\n    }\n\n    .unique-rating-text-Rfv012 {\n      font-size: 14px;\n      color: #333; /* Metin rengi */\n    }\n  </style>\n</head>\n<body class=\"unique-body-Qaz123\">\n\n<div class=\"unique-rating-container-Wsx456\">\n  <div class=\"unique-rating-stars-Edc789\">\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n    <svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M12 .587l3.668 7.431 8.144 1.18-5.906 5.434 1.391 8.079L12 18.896l-7.297 3.843 1.391-8.079-5.906-5.434 8.144-1.18z\"/></svg>\n  </div>\n  <span class=\"unique-rating-text-Rfv012\">Noté 4.8/5 par + de 1500 clients!</span>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "title_bAqL4Y": {
           "type": "title",
           "settings": {
@@ -246,6 +252,12 @@
           "type": "price",
           "settings": {
             "show_taxes_notice": false
+          }
+        },
+        "liquid_9cKAhD": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap\">\n    <style>\n        .unique-deal-badge-Xyz789 {\n            display: inline-flex;\n            align-items: center;\n            font-family: 'Roboto', sans-serif; /* Using Roboto font */\n            font-size: 20px;\n        }\n\n        .unique-highlight-Abc123 {\n            background-color: #ffcccc; /* Light red background */\n            padding: 2px 5px;\n            border-radius: 3px;\n            font-weight: bold;\n            color: #000;\n        }\n\n        .unique-highlight-Abc123 .unique-deals-Def456 {\n            color: #cc0000; /* Darker red text */\n        }\n\n        .unique-extra-Ghi789 {\n            color: #cc0000; /* Darker red text */\n            margin-left: 5px;\n            animation: unique-blink-Jkl012 2s infinite; /* Slower blinking animation */\n        }\n\n        @keyframes unique-blink-Jkl012 {\n            0%, 50%, 100% {\n                opacity: 1;\n            }\n            25%, 75% {\n                opacity: 0;\n            }\n        }\n    </style>\n    <title>Deal Badge</title>\n</head>\n<body class=\"unique-body-Mno345\">\n    <div class=\"unique-deal-badge-Xyz789\">\n        <div class=\"unique-highlight-Abc123\">\n            Super<span class=\"unique-deals-Def456\">Deals</span>\n        </div>\n        <div class=\"unique-extra-Ghi789\">• 2 ACHETÉS, UN OFFERT ! \n    </div>\n</body>\n</html>"
           }
         },
         "rating_dMzBpt": {
@@ -270,13 +282,31 @@
             "hide_sold_out_variants": false,
             "stack_blocks": true,
             "selector_mode": "block",
-            "color_mode": "color",
+            "color_mode": "block_swatch",
             "size_chart_page": ""
+          }
+        },
+        "liquid_NMUxkV": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"progress-info\">\n  <div class=\"image-container\">\n    <img src=\"paste the link inside of these quotes\" alt=\"Circle Image\">\n  </div>\n  <div class=\"text-container\">\n    <p>94.8% of women saw a decrease in cravings within two weeks.</p>\n  </div>\n</div>\n\n<style>\n.progress-info {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  font-family: Arial, sans-serif;\n}\n\n.image-container {\n  width: 60px; /* Adjust according to your image size */\n  height: 60px; /* Adjust according to your image size */\n}\n\n.image-container img {\n  width: 100%;\n  height: auto;\n  display: block;\n}\n\n.text-container {\n  flex: 1; /* This will make the text container take up remaining space */\n}\n\n.text-container p {\n  margin: 0; /* Remove default margin */\n  font-size: 16px;\n  line-height: 1.4; /* Adjust line height as needed */\n}\n</style>"
           }
         },
         "quantity_selector_wVEDd9": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "liquid_et7ybM": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>In Cart Alert</title>\n    <style>\n        .alert-container-KL234 {\n            display: flex;\n            align-items: center;\n            font-family: Arial, sans-serif;\n            font-size: 16px;\n            color: #333;\n            margin: 2px 0; /* Yukarı ve aşağı 2 px boşluk ekleme */\n        }\n        .icon-wrapper-MN567 {\n            margin-right: 5px; /* Metne daha yakın yapmak için azaltıldı */\n        }\n        .icon-wrapper-MN567 img {\n            width: 24px; /* İkonun boyutu büyütüldü */\n        }\n        .alert-text-OP890 {\n            font-weight: normal;\n        }\n        .highlight-text-QR123 {\n            color: #000; /* Daha koyu siyah renk */\n            font-weight: bold;\n            animation: pulse-ST456 1.5s infinite;\n        }\n        @keyframes pulse-ST456 {\n            0%, 100% {\n                transform: scale(1);\n            }\n            50% {\n                transform: scale(1.1);\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"alert-container-KL234\">\n        <div class=\"icon-wrapper-MN567\">\n            <img src=\"https://www.svgrepo.com/show/521847/shopping-cart.svg\" alt=\"Shopping Cart Icon\">\n        </div>\n        <span class=\"alert-text-OP890\"><span class=\"highlight-text-QR123\">1115 </span> personnes ont ce produit dans leur panier. Dêpéchez-vous !</span>\n    </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_8FXMm6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 30px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    Plus que 8 articles à ce prix !\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Stock limité – ne tardez pas !!\n  </span>\n</div>\n\n</body>\n</html>"
+          }
         },
         "buy_buttons_9QAB3d": {
           "type": "buy_buttons",
@@ -289,21 +319,40 @@
             "payment_button_text_color": ""
           }
         },
+        "liquid_XfEdeb": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"fr\">\n<head>\n  <meta charset=\"UTF-8\">\n  <title>Logos de Paiement</title>\n  <style>\n    .icon-container {\n      display: flex;\n      gap: 10px;\n      align-items: center;\n      justify-content: center;\n      margin-top: 30px;\n    }\n\n    .icon {\n      width: 40px;\n      height: auto;\n    }\n  </style>\n</head>\n<body>\n\n  <div class=\"icon-container\">\n    <!-- Apple Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/Apple_Pay-Logo.wine.png?v=1746126288\" alt=\"Apple Pay\">\n\n    <!-- Google Pay -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/images.png?v=1746126288\" alt=\"Google Pay\">\n\n    <!-- PayPal -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/b/b5/PayPal.svg\" alt=\"PayPal\">\n\n    <!-- Mastercard -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/0/04/Mastercard-logo.png\" alt=\"Mastercard\">\n\n    <!-- Visa -->\n    <img class=\"icon\" src=\"https://upload.wikimedia.org/wikipedia/commons/4/41/Visa_Logo.png\" alt=\"Visa\">\n\n    <!-- American Express -->\n    <img class=\"icon\" src=\"https://cdn.shopify.com/s/files/1/0747/1749/5526/files/hd-amex-american-express-logo-png-701751694708970jttzjjyo6e.png?v=1746126288\" alt=\"American Express\">\n  </div>"
+          }
+        },
+        "liquid_8eneWJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"features-container\">\n  <div class=\"feature\">\n    <span class=\"feature-icon\">🚚</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">LIVRAISON GRATUITE</h3>\n      <p class=\"feature-description\">Free Tracked Delivery on All Orders</p>\n    </div>\n  </div>\n  <div class=\"feature\">\n    <span class=\"feature-icon\">✅</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">SATISFAIT OU REMBOURSÉ</h3>\n      <p class=\"feature-description\">Our 30-Day Money-Back Guarantee</p>\n    </div>\n  </div>\n  <div class=\"divider horizontal-divider\"></div>\n  <div class=\"divider vertical-divider\"></div>\n  <div class=\"feature\">\n    <span class=\"feature-icon\">👍</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">APPROUVÉ PAR NOS CLIENTS</h3>\n      <p class=\"feature-description\">Trusted by Shoppers - 5 Star rated product and service!</p>\n    </div>\n  </div>\n  <div class=\"feature\">\n    <span class=\"feature-icon\">📞</span>\n    <div class=\"feature-text\">\n      <h3 class=\"feature-title\">SERVICE CLIENT RÉACTIF</h3>\n      <p class=\"feature-description\">Assistance at Your Fingertips: We're Here for You</p>\n    </div>\n  </div>\n</div>\n \n<style>\n.features-container {\n  display: grid;\n  grid-template-columns: repeat(2, 1fr);\n  gap: 1rem;\n  position: relative;\n  max-width: 600px;\n  margin: auto;\n}\n \n.feature {\n  display: flex;\n  align-items: center;\n}\n \n.feature-icon {\n  font-size: 35px; /* Icon size */\n  margin-right: 12px; /* Space between icon and text */\n}\n \n.feature-text {\n  display: flex;\n  flex-direction: column;\n  align-items: flex-start;\n}\n \n.feature-title {\n  font-size: 25px; /* Title size */\n  margin: 0;\n}\n \n.feature-description {\n  font-size: 0px; /* Description size */\n  margin: 0;\n}\n \n.divider {\n  background-color: #ccc; /* Line color */\n  position: absolute;\n}\n \n.horizontal-divider {\n  top: 50%;\n  left: 0;\n  width: 100%;\n  height: 1px; /* Line thickness */\n  transform: translateY(-50%);\n}\n \n.vertical-divider {\n  top: 0;\n  bottom: 0;\n  left: 50%;\n  width: 1px; /* Line thickness */\n  transform: translateX(-50%);\n}\n \n@media (max-width: 600px) {\n  .features-container {\n    grid-template-columns: 1fr;\n  }\n \n  .horizontal-divider, .vertical-divider {\n    display: none;\n  }\n}\n</style>"
+          }
+        },
         "pickup_availability_Pb4e7h": {
           "type": "pickup_availability",
           "settings": {}
         }
       },
       "block_order": [
+        "liquid_rRUnDg",
         "title_bAqL4Y",
         "badges_9PBFJG",
         "price_a3wFCw",
+        "liquid_9cKAhD",
         "rating_dMzBpt",
         "separator_C3kMiK",
         "description_CYxTmq",
         "variant_picker_UkHaVr",
+        "liquid_NMUxkV",
         "quantity_selector_wVEDd9",
+        "liquid_et7ybM",
+        "liquid_8FXMm6",
         "buy_buttons_9QAB3d",
+        "liquid_XfEdeb",
+        "liquid_8eneWJ",
         "pickup_availability_Pb4e7h"
       ],
       "name": "Featured product",
@@ -324,19 +373,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "custom_liquid_FFBzXi": {
-      "type": "custom-liquid",
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p style=\"text-align: center\">Write or copy/paste Liquid code</p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
     }
   },
   "order": [
@@ -348,7 +384,6 @@
     "before_after_image_qQCaNC",
     "before_after_image_7K4Wwr",
     "multi_column_AJC8ty",
-    "featured_product_bkcUan",
-    "custom_liquid_FFBzXi"
+    "featured_product_bkcUan"
   ]
 }
