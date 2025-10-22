@@ -335,12 +335,6 @@
             "size_chart_page": ""
           }
         },
-        "liquid_NMUxkV": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"progress-info\">\n  <div class=\"image-container\">\n    <img src=\"paste the link inside of these quotes\" alt=\"Circle Image\">\n  </div>\n  <div class=\"text-container\">\n    <p>94.8% of women saw a decrease in cravings within two weeks.</p>\n  </div>\n</div>\n\n<style>\n.progress-info {\n  display: flex;\n  align-items: center;\n  gap: 10px;\n  font-family: Arial, sans-serif;\n}\n\n.image-container {\n  width: 60px; /* Adjust according to your image size */\n  height: 60px; /* Adjust according to your image size */\n}\n\n.image-container img {\n  width: 100%;\n  height: auto;\n  display: block;\n}\n\n.text-container {\n  flex: 1; /* This will make the text container take up remaining space */\n}\n\n.text-container p {\n  margin: 0; /* Remove default margin */\n  font-size: 16px;\n  line-height: 1.4; /* Adjust line height as needed */\n}\n</style>"
-          }
-        },
         "quantity_selector_wVEDd9": {
           "type": "quantity_selector",
           "settings": {}
@@ -408,7 +402,6 @@
         "separator_C3kMiK",
         "description_CYxTmq",
         "variant_picker_UkHaVr",
-        "liquid_NMUxkV",
         "quantity_selector_wVEDd9",
         "liquid_NGAKxz",
         "liquid_et7ybM",
