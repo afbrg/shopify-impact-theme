@@ -151,7 +151,9 @@
         "item_ingmdJ",
         "item_7YJpUi"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".multicolumn-card {justify-content: center;}"
+      ],
       "name": "Multi-column",
       "settings": {
         "full_width": false,
