@@ -7,7 +7,6 @@
  * made to this file may be overwritten.
  * ------------------------------------------------------------
  */
- 
 {
   "sections": {
     "main": {
@@ -99,7 +98,7 @@
         "heading_P8WyBk": {
           "type": "heading",
           "settings": {
-            "text": "Des actifs puissants, une formule clean.",
+            "text": "Des actifs puissants, une formule efficace.",
             "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
