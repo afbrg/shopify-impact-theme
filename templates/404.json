@@ -124,7 +124,7 @@
         "full_width": true,
         "subheading": "",
         "title": "AVANT / APRÈS LYSTÈNE",
-        "content": "<h6>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/></h6>",
+        "content": "<h6>Des résultats garantis des les premiers instants ! <br/><br/></h6>",
         "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080327.png",
         "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080445.png",
         "expand_image": false,
@@ -248,6 +248,12 @@
           "type": "badges",
           "settings": {}
         },
+        "liquid_8FXMm6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 20px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    Plus que 8 articles à ce prix !\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Stock limité – ne tardez pas !!\n  </span>\n</div>\n\n</body>\n</html>"
+          }
+        },
         "price_a3wFCw": {
           "type": "price",
           "settings": {
@@ -256,6 +262,7 @@
         },
         "liquid_9cKAhD": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap\">\n    <style>\n        .unique-deal-badge-Xyz789 {\n            display: inline-flex;\n            align-items: center;\n            font-family: 'Roboto', sans-serif; /* Using Roboto font */\n            font-size: 20px;\n        }\n\n        .unique-highlight-Abc123 {\n            background-color: #ffcccc; /* Light red background */\n            padding: 2px 5px;\n            border-radius: 3px;\n            font-weight: bold;\n            color: #000;\n        }\n\n        .unique-highlight-Abc123 .unique-deals-Def456 {\n            color: #cc0000; /* Darker red text */\n        }\n\n        .unique-extra-Ghi789 {\n            color: #cc0000; /* Darker red text */\n            margin-left: 5px;\n            animation: unique-blink-Jkl012 2s infinite; /* Slower blinking animation */\n        }\n\n        @keyframes unique-blink-Jkl012 {\n            0%, 50%, 100% {\n                opacity: 1;\n            }\n            25%, 75% {\n                opacity: 0;\n            }\n        }\n    </style>\n    <title>Deal Badge</title>\n</head>\n<body class=\"unique-body-Mno345\">\n    <div class=\"unique-deal-badge-Xyz789\">\n        <div class=\"unique-highlight-Abc123\">\n            Super<span class=\"unique-deals-Def456\">Deals</span>\n        </div>\n        <div class=\"unique-extra-Ghi789\">• 2 ACHETÉS, UN OFFERT ! \n    </div>\n</body>\n</html>"
           }
@@ -296,16 +303,16 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "liquid_NGAKxz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "liquid_et7ybM": {
           "type": "liquid",
           "settings": {
             "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>In Cart Alert</title>\n    <style>\n        .alert-container-KL234 {\n            display: flex;\n            align-items: center;\n            font-family: Arial, sans-serif;\n            font-size: 16px;\n            color: #333;\n            margin: 2px 0; /* Yukarı ve aşağı 2 px boşluk ekleme */\n        }\n        .icon-wrapper-MN567 {\n            margin-right: 5px; /* Metne daha yakın yapmak için azaltıldı */\n        }\n        .icon-wrapper-MN567 img {\n            width: 24px; /* İkonun boyutu büyütüldü */\n        }\n        .alert-text-OP890 {\n            font-weight: normal;\n        }\n        .highlight-text-QR123 {\n            color: #000; /* Daha koyu siyah renk */\n            font-weight: bold;\n            animation: pulse-ST456 1.5s infinite;\n        }\n        @keyframes pulse-ST456 {\n            0%, 100% {\n                transform: scale(1);\n            }\n            50% {\n                transform: scale(1.1);\n            }\n        }\n    </style>\n</head>\n<body>\n    <div class=\"alert-container-KL234\">\n        <div class=\"icon-wrapper-MN567\">\n            <img src=\"https://www.svgrepo.com/show/521847/shopping-cart.svg\" alt=\"Shopping Cart Icon\">\n        </div>\n        <span class=\"alert-text-OP890\"><span class=\"highlight-text-QR123\">1115 </span> personnes ont ce produit dans leur panier. Dêpéchez-vous !</span>\n    </div>\n</body>\n</html>"
-          }
-        },
-        "liquid_8FXMm6": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<title>Items Left Badge</title>\n<style>\n.unique-body-abc123 {\n  font-family: Arial, sans-serif;\n  background-color: #f9f9f9;\n  color: #333;\n  display: flex;\n  justify-content: center;\n  align-items: center;\n  height: 100vh;\n  margin: 0;\n  gap: 10px; /* Badge'ler arasındaki boşluk */\n  transform: scale(0.8); /* Tüm bileşenleri orantılı küçültme */\n}\n\n.unique-badge-def456 {\n  display: inline-flex;\n  align-items: center;\n  background-color: #ffdede; /* Açık kırmızı arka plan */\n  color: #b22222; /* Koyu kırmızı metin */\n  padding: 3px 5px; /* Küçültülmüş padding */\n  border-radius: 5px; /* Orantılı yuvarlama */\n  font-size: 30px; /* Küçültülmüş font boyutu */\n  font-weight: bold;\n  text-align: center;\n  position: relative;\n}\n\n.unique-flame-icon-ghi789, .unique-clock-icon-jkl012 {\n  margin-right: 4px; /* Küçültülmüş boşluk */\n  display: inline-block;\n  position: relative;\n  vertical-align: middle;\n}\n\n.unique-flame-icon-ghi789 svg, .unique-clock-icon-jkl012 svg {\n  width: 12px; /* Küçültülmüş ikon boyutu */\n  height: 12px; /* Küçültülmüş ikon boyutu */\n}\n\n.unique-flame-icon-ghi789 svg {\n  animation: unique-flame-animation-mno345 2s infinite;\n}\n\n.unique-clock-icon-jkl012 svg {\n  animation: unique-clock-animation-pqr678 2s infinite;\n}\n\n@keyframes unique-flame-animation-mno345 {\n  0%, 100% {\n    transform: scale(1);\n  }\n  50% {\n    transform: scale(1.2);\n  }\n}\n\n@keyframes unique-clock-animation-pqr678 {\n  0%, 100% {\n    transform: rotate(0deg);\n  }\n  50% {\n    transform: rotate(360deg);\n  }\n}\n\n.unique-badge-def456 span {\n  display: flex;\n  align-items: center;\n}\n</style>\n</head>\n<body class=\"unique-body-abc123\">\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-flame-icon-ghi789\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <path fill=\"#FF4500\" d=\"M32 2C19 15 9 26 9 38c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14s-14 6-14 14c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14S18 22 18 30c0 8 6 14 14 14s14-6 14-14c0-8-6-14-14-14z\"/>\n      </svg>\n    </div>\n    Plus que 8 articles à ce prix !\n  </span>\n</div>\n\n<div class=\"unique-badge-def456\">\n  <span>\n    <div class=\"unique-clock-icon-jkl012\">\n      <svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n        <circle cx=\"32\" cy=\"32\" r=\"30\" stroke=\"#b22222\" stroke-width=\"4\" fill=\"none\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"12\" stroke=\"#b22222\" stroke-width=\"4\"/>\n        <line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#b22222\" stroke-width=\"4\"/>\n      </svg>\n    </div>\n    Stock limité – ne tardez pas !!\n  </span>\n</div>\n\n</body>\n</html>"
           }
         },
         "buy_buttons_9QAB3d": {
@@ -317,6 +324,18 @@
             "atc_button_text_color": "",
             "payment_button_background": "",
             "payment_button_text_color": ""
+          }
+        },
+        "liquid_8J9Xe8": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n  <title>Responsive Full-Width Design</title>\n  <style>\n    body.uniqueBodyIdentifier_ab89x73lmn {\n      font-family: Arial, sans-serif;\n      margin: 0;\n      padding: 0;\n      display: flex;\n      justify-content: center;\n      align-items: center;\n      height: 100vh;\n      background-color: transparent;\n    }\n\n    .contentWrapper_xz98mn45qwe {\n      width: 100%; /* Genişlik %100 olarak kalır */\n      text-align: center;\n    }\n\n    .textAboveButton_12lm45xzq {\n      font-size: 20px; /* Üst metin boyutu */\n      margin-bottom: 10px;\n      color: #4a4a4a; /* Normal metin rengi */\n    }\n\n    .textAboveButton_12lm45xzq span.highlight_89mnx12opq {\n      color: #000; /* Satış sayısı siyah ve bold */\n      font-weight: 500;\n    }\n\n    .buttonStyle_xz23mn89qwe {\n      display: inline-block;\n      width: 100%; /* Buton genişliği %100 */\n      font-size: 16px;\n      font-weight: 500;\n      color: ##c2a35d; /* Buton yazı rengi */\n      background: linear-gradient(to right, #34d2a0, #30a560); /* Gradyan renkler */\n      padding: 15px; /* Mobilde tıklama kolaylığı için padding artırıldı */\n      border-radius: 4px;\n      cursor: pointer;\n      text-decoration: none;\n      transition: background 0.3s ease;\n      border: none;\n      box-sizing: border-box;\n    }\n\n    .buttonStyle_xz23mn89qwe:hover {\n      background: linear-gradient(to right, #30a560, #34d2a0); /* Hover için gradyan ters çevrildi */\n    }\n\n    /* Mobil uyum için medya sorgusu */\n    \n@media\n (max-width: 768px) {\n      .textAboveButton_12lm45xzq {\n        font-size: 16px; /* Üst metin mobilde küçültüldü */\n      }\n\n      .buttonStyle_xz23mn89qwe {\n        font-size: 14px; /* Buton yazısı boyutu küçültüldü */\n        padding: 12px; /* Daha dar ekranlarda padding azaltıldı */\n      }\n    }\n\n    \n@media\n (max-width: 480px) {\n      .textAboveButton_12lm45xzq {\n        font-size: 14px; /* Daha küçük ekranlar için yazı boyutu */\n      }\n\n      .buttonStyle_xz23mn89qwe {\n        font-size: 13px; /* Buton yazı boyutu daha da küçültüldü */\n        padding: 10px; /* Tıklama alanı optimize edildi */\n      }\n    }\n  </style>\n</head>\n<body class=\"uniqueBodyIdentifier_ab89x73lmn\">\n  <div class=\"contentWrapper_xz98mn45qwe\">\n    <div class=\"textAboveButton_12lm45xzq\">\n      <span h\n    </div>\n    <a href=\"#\" class=\"buttonStyle_xz23mn89qwe\">Essayez sans risque : si vous n’êtes pas satisfait, nous vous remboursons.</a>\n  </div>\n</body>\n</html>"
+          }
+        },
+        "liquid_cHNtaA": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Pay in 4 Parts</title>\n    <style>\n        .unique-body {\n            font-family: Arial, sans-serif;\n            display: flex;\n            justify-content: center;\n            align-items: center;\n            height: 100vh;\n            margin: 0;\n            background-color: #ffffff;\n        }\n        .unique-payment-container {\n            display: flex;\n            align-items: center;\n        }\n        .unique-text {\n            font-size: 18px;\n            margin-right: 10px;\n            color: #999;\n        }\n        .unique-logo-container {\n            display: flex;\n            align-items: center;\n        }\n        .unique-logo {\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            position: relative;\n            cursor: pointer;\n        }\n        .unique-logo img {\n            height: 40px;\n        }\n        .unique-tooltip {\n            visibility: hidden;\n            width: 140px;\n            background-color: #333;\n            color: #fff;\n            text-align: center;\n            border-radius: 6px;\n            padding: 8px 0;\n            position: absolute;\n            z-index: 1;\n            bottom: 150%; /* Bilgi çubuğunu logonun üzerine yerleştirin */\n            left: 50%;\n            margin-left: -70px;\n            opacity: 0;\n            transition: opacity 0.3s;\n        }\n        .unique-tooltip::after {\n            content: \"\";\n            position: absolute;\n            top: 100%; /* Bilgi çubuğunun altındaki ok */\n            left: 50%;\n            margin-left: -5px;\n            border-width: 5px;\n            border-style: solid;\n            border-color: #333 transparent transparent transparent;\n        }\n        .unique-logo:hover .unique-tooltip {\n            visibility: visible;\n            opacity: 1;\n        }\n    </style>\n</head>\n<body class=\"unique-body\">\n    <div class=\"unique-payment-container\">\n        <div class=\"unique-text\">Pay in 4 parts with</div>\n        <div class=\"unique-logo-container\">\n            <div class=\"unique-logo\" onclick=\"window.location.href='https://www.klarna.com'\">\n                <img src=\"https://www.svgrepo.com/show/508697/klarna.svg\" alt=\"Klarna\">\n                <div class=\"unique-tooltip\">Klarna Payment</div>\n            </div>\n        </div>\n    </div>\n</body>\n</html>"
           }
         },
         "liquid_XfEdeb": {
@@ -340,6 +359,7 @@
         "liquid_rRUnDg",
         "title_bAqL4Y",
         "badges_9PBFJG",
+        "liquid_8FXMm6",
         "price_a3wFCw",
         "liquid_9cKAhD",
         "rating_dMzBpt",
@@ -348,9 +368,11 @@
         "variant_picker_UkHaVr",
         "liquid_NMUxkV",
         "quantity_selector_wVEDd9",
+        "liquid_NGAKxz",
         "liquid_et7ybM",
-        "liquid_8FXMm6",
         "buy_buttons_9QAB3d",
+        "liquid_8J9Xe8",
+        "liquid_cHNtaA",
         "liquid_XfEdeb",
         "liquid_8eneWJ",
         "pickup_availability_Pb4e7h"
