@@ -141,7 +141,7 @@
         "full_width": true,
         "subheading": "AVANT/APRÈS LYSTÈNE",
         "title": "Effet lissant immédiat",
-        "content": "<h6>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/><br/><br/></h6>",
+        "content": "<p>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/><br/><br/></p>",
         "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080830.png",
         "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080838.png",
         "expand_image": false,
@@ -460,8 +460,8 @@
         "tab_wjQkmD": {
           "type": "tab",
           "settings": {
-            "title": "ESSAYEZ-LE 90 JOURS GRATUITEMENT",
-            "content": "<p>Essayez <strong>LYSTÈNE – Anti-Rides Express</strong> sans aucun risque.<br/><br/>Profitez de <strong>90 jours d’essai gratuit</strong> pour découvrir une peau plus lisse, plus éclatante et naturellement reposée.<br/><br/>Si vous n’êtes pas conquise, <strong>vous ne payez rien.</strong><br/><br/>Parce que la confiance commence par la transparence. 💛</p>",
+            "title": "Essayez-le 30 jours !",
+            "content": "<p>Essayez <strong>LYSTÈNE – Anti-Rides Express</strong> sans aucun risque.<br/><br/>Profitez de <strong>30 jours </strong>pour découvrir une peau plus lisse, plus éclatante et naturellement reposée.<br/><br/>Si vous n’êtes pas conquise, nous vous remboursons ! <br/><br/>Parce que la confiance commence par la transparence. 💛</p>",
             "page": ""
           }
         },
