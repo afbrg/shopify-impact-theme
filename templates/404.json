@@ -472,13 +472,22 @@
             "content": "<p>Notre équipe est à votre disposition pour répondre à vos questions 7j/7.</p><p>Vous pouvez nous contacter par email, nous nous engageons à vous répondre sous 24h. </p>",
             "page": ""
           }
+        },
+        "tab_99YHLC": {
+          "type": "tab",
+          "settings": {
+            "title": "Comment utiliser lystène ?",
+            "content": "<h2>🌿 <strong>Comment utiliser Lystène – Anti-Rides Express</strong></h2><h3>①</h3><p><strong>Nettoyez et séchez délicatement</strong> le visage et le contour des yeux.</p><h3>②</h3><p><strong>Appuyez légèrement sur la bille</strong> pour libérer le soin, puis appliquez-le uniformément sur les zones concernées (yeux, front, sillons).</p><h3>③</h3><p><strong>Faites rouler la bille</strong> en mouvements doux pour favoriser la pénétration et stimuler la microcirculation.</p>",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "tab_KVhDng",
         "tab_wjQkmD",
         "tab_JNBW7P",
-        "tab_YtRnfr"
+        "tab_YtRnfr",
+        "tab_99YHLC"
       ],
       "name": "Tabs",
       "settings": {
