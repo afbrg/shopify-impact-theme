@@ -444,6 +444,14 @@
         "tab_KVhDng": {
           "type": "tab",
           "settings": {
+            "title": "ingrédients",
+            "content": "<h2>🌿 <strong>Naturel & sincère</strong></h2><h5>Chez Lystène, nous sommes convaincus qu’une peau belle commence par une formule claire et honnête : </h5><ul><li><strong>Camellia Sinensis Leaf Extract (Thé vert)</strong> – Décongestionne et apaise instantanément.<br/></li><li><strong>Niacinamide (Vitamine B3)</strong> – Lisse et unifie le teint.<br/></li><li><strong>Aqua (Eau)</strong> – Base hydratante pure.<br/></li><li><strong>Glycerin</strong> – Hydrate et adoucit durablement la peau.<br/></li><li><strong>Hydrogenated Castor Oil (Huile de ricin hydrogénée)</strong> – Nourrit et renforce la barrière cutanée.<br/></li><li><strong>Ethylhexylglycerin</strong> – Agent adoucissant et protecteur naturel.<br/></li><li><strong>Tocopherol (Vitamine E)</strong> – Protège des radicaux libres et prévient le vieillissement cutané.<br/></li><li><strong>Vitis Vinifera (Grape) Seed Extract</strong> – Riche en antioxydants, ravive l’éclat du teint.<br/></li><li><strong>Vitis Vinifera (Grape) Fruit Extract</strong> – Repulpe et illumine la peau.<br/></li><li><strong>Hyaluronic Acid (Acide Hyaluronique)</strong> – Lisse immédiatement et hydrate en profondeur.<br/></li></ul>",
+            "page": ""
+          }
+        },
+        "tab_wjQkmD": {
+          "type": "tab",
+          "settings": {
             "title": "ESSAYEZ-LE 90 JOURS GRATUITEMENT",
             "content": "<p>Essayez <strong>LYSTÈNE – Anti-Rides Express</strong> sans aucun risque.<br/><br/>Profitez de <strong>90 jours d’essai gratuit</strong> pour découvrir une peau plus lisse, plus éclatante et naturellement reposée.<br/><br/>Si vous n’êtes pas conquise, <strong>vous ne payez rien.</strong><br/><br/>Parce que la confiance commence par la transparence. 💛</p>",
             "page": ""
@@ -468,6 +476,7 @@
       },
       "block_order": [
         "tab_KVhDng",
+        "tab_wjQkmD",
         "tab_JNBW7P",
         "tab_YtRnfr"
       ],
