@@ -502,6 +502,83 @@
         "heading_color": "",
         "heading_gradient": ""
       }
+    },
+    "faq_7ahfAL": {
+      "type": "faq",
+      "blocks": {
+        "item_cKbeik": {
+          "type": "item",
+          "settings": {
+            "title": "🧴 Le produit agit-il vraiment en 10 secondes ?",
+            "content": "<p>Oui. Son effet tenseur est <strong>immédiat</strong> grâce à la synergie de <strong>niacinamide, caféine et acide hyaluronique</strong>, qui lissent visiblement la peau dès l’application.</p><p><br/>Cet effet instantané est temporaire (comme une “remise à neuf express”), mais l’utilisation régulière <strong>améliore la fermeté et l’éclat</strong> sur le long terme.</p>"
+          }
+        },
+        "item_kNRANg": {
+          "type": "item",
+          "settings": {
+            "title": "👁️‍🗨️ Est-ce que Lystène convient à tous les types de peau ?",
+            "content": "<p>Oui. Sa formule est <strong>testée dermatologiquement</strong>, <strong>sans silicones ni ingrédients agressifs</strong>, et <strong>adaptée même aux peaux sensibles</strong>.<br/><br/>Elle hydrate, apaise et renforce la barrière cutanée grâce à l’extrait de thé vert et à la glycérine végétale.<br/></p>"
+          }
+        },
+        "item_X7p6FQ": {
+          "type": "item",
+          "settings": {
+            "title": "⏳ Est-ce que les résultats sont durables ?",
+            "content": "<p>L’effet “lisse instantané” dure plusieurs heures après application.<br/></p><p>Mais à long terme, la <strong>niacinamide</strong>, le <strong>thé vert</strong> et le <strong>raisin</strong> contribuent à <strong>réduire les ridules et unifier le teint</strong> au fil des semaines.<br/><br/>C’est donc un soin <strong>express mais aussi progressif</strong>.<br/><br/></p>"
+          }
+        },
+        "item_iRdnBg": {
+          "type": "item",
+          "settings": {
+            "title": "⚠️ Est-ce qu’il contient des ingrédients nocifs ou controversés ?",
+            "content": "<p>Non. Lystène est formulé <strong>sans parabènes, sans silicones, sans parfum artificiel ni huile minérale.</strong><br/>La formule est <strong>vegan, cruelty-free</strong>, et fabriquée selon les <strong>normes européennes</strong> de sécurité cosmétique.<br/><br/></p>"
+          }
+        },
+        "item_a4PVbL": {
+          "type": "item",
+          "settings": {
+            "title": "🌿 Quelle est la différence avec une crème anti-âge classique ?",
+            "content": "<p>Une crème agit lentement en profondeur, tandis que Lystène offre un <strong>résultat visible immédiat</strong>, idéal pour <strong>les matins pressés, les rendez-vous ou les retouches express.</strong><br/><br/>Son <strong>format roll-on</strong> permet une application précise, hygiénique et sans gaspillage.</p>"
+          }
+        },
+        "item_4qAXej": {
+          "type": "item",
+          "settings": {
+            "title": "Question",
+            "content": "<p>Write content to answer to common questions your customers may have about your products, shipping policies..</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_cKbeik",
+        "item_kNRANg",
+        "item_X7p6FQ",
+        "item_iRdnBg",
+        "item_a4PVbL",
+        "item_4qAXej"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "<p>Use this text to share information about your product or shipping policies.</p>",
+        "team_avatar_width": 160,
+        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
+        "answer_time": "Average answer time: 24h",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
+      }
     }
   },
   "order": [
@@ -516,6 +593,7 @@
     "before_after_image_7K4Wwr",
     "multi_column_AJC8ty",
     "featured_product_bkcUan",
-    "tabs_FTEfWf"
+    "tabs_FTEfWf",
+    "faq_7ahfAL"
   ]
 }
