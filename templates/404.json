@@ -559,7 +559,7 @@
           "type": "item",
           "settings": {
             "title": "🚚 Quels sont les délais et conditions de livraison ?",
-            "content": "<p>Nous offrons la <strong>livraison gratuite</strong> sur toutes les commandes.<br/>Les délais varient de <strong>5 à 10 jours ouvrés</strong>, selon votre localisation.</p>"
+            "content": "<p>Nous offrons la <strong>livraison gratuite</strong> sur toutes les commandes.<br/>Les délais varient de <strong>5 à 10 jours ouvrés</strong>, selon votre localisation.</p><p>Nous livrons dans le monde entier.</p>"
           }
         },
         "item_imAYDC": {
