@@ -92,6 +92,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_pUhkkW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TJp77G": {
+          "type": "heading",
+          "settings": {
+            "text": "AVANT / APRÈS LYSTÈNE",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_TJp77G"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_PeUMdd": {
       "type": "before-after-image",
       "name": "Before/after image",
@@ -99,7 +125,7 @@
         "full_width": true,
         "subheading": "",
         "title": "UN REGARD PLUS LISSE ET HYDRATÉ",
-        "content": "<h6>Dès la première application, la peau paraît plus souple et mieux hydratée.<br/>Les marques de fatigue s’estompent, laissant un regard plus frais et reposé<br/><br/></h6>",
+        "content": "<p><strong>Dès la première application, la peau paraît plus souple et mieux hydratée.<br/>Les marques de fatigue s’estompent, laissant un regard plus frais et reposé<br/><br/></strong></p>",
         "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080830.png",
         "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080838.png",
         "expand_image": false,
@@ -259,6 +285,7 @@
         "item_zFACTV",
         "item_AQk6Bt"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -643,6 +670,65 @@
         "review_button_background": "#000000",
         "review_button_text_color": "#ffffff"
       }
+    },
+    "multi_column_TWFTKL": {
+      "type": "multi-column",
+      "blocks": {
+        "item_WfKLxg": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Marie S.",
+            "heading_tag": "h4",
+            "content": "<p>\"Une huile merveilleuse pour les yeux fatigués. L’embout est frais et apaise le regard, procurant une réelle sensation de soulagement.<br/>L’huile est épaisse et nourrissante. La livraison a été rapide et le produit bien emballé.<br/>Je le recommande ! ♥️\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Uw6FKq": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Leïla m.",
+            "heading_tag": "h4",
+            "content": "<p>\"Super produit, je l’utilise tous les jours. Je le recommande !\"</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_hbKB7k": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Richard D.",
+            "heading_tag": "h4",
+            "content": "<p>\"Arrivé très rapidement et bien emballé. J’en ai acheté d’autres pour ma copine, elle les aime beaucoup. Je recommande\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_WfKLxg",
+        "item_Uw6FKq",
+        "item_hbKB7k"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Les clients en parlent le mieux",
+        "content": "<p>La confiance se construit avec le temps — et avec des résultats. Découvrez ce que nos clients pensent de Lystène.</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -650,6 +736,7 @@
     "image_with_text_overlay_WzgXUh",
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
+    "rich_text_pUhkkW",
     "before_after_image_PeUMdd",
     "rich_text_BnpnrL",
     "image_with_text_overlay_zwB3zB",
@@ -660,6 +747,7 @@
     "tabs_FTEfWf",
     "faq_7ahfAL",
     "contact_4x7mwU",
-    "1761176026dbb228b6"
+    "1761176026dbb228b6",
+    "multi_column_TWFTKL"
   ]
 }
