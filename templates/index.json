@@ -185,6 +185,65 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_BVnqFm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Py6jBR": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "MARIE S.",
+            "heading_tag": "h4",
+            "content": "<p>\"Une huile merveilleuse pour les yeux fatigués. L’embout est frais et apaise le regard, procurant une réelle sensation de soulagement.<br/>L’huile est épaisse et nourrissante. La livraison a été rapide et le produit bien emballé.<br/>Je le recommande ! ♥️\"<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_D4kkmQ": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BGVMmw": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Py6jBR",
+        "item_D4kkmQ",
+        "item_BGVMmw"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "NOS CLIENTS EN PARLENT LE MIEUX",
+        "content": "<p>La confiance se construit avec le temps — et avec des résultats. Découvrez ce que nos clients pensent de Lystène.<br/></p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "before_after_image_qQCaNC": {
       "type": "before-after-image",
       "disabled": true,
@@ -740,6 +799,7 @@
     "before_after_image_PeUMdd",
     "rich_text_BnpnrL",
     "image_with_text_overlay_zwB3zB",
+    "multi_column_BVnqFm",
     "before_after_image_qQCaNC",
     "before_after_image_7K4Wwr",
     "multi_column_AJC8ty",
