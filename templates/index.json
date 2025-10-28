@@ -558,7 +558,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite à domicile",
-            "content": "<h4>Offrez-vous l’éclat sans attendre.</h4><p><br/>Profitez de la <strong>livraison 100% gratuite</strong> sur toutes vos commandes, partout en France.<br/><br/></p>",
+            "content": "<h4><strong>Offrez-vous l’éclat sans attendre.</strong></h4><p><br/>Profitez de la <strong>livraison 100% gratuite</strong> sur toutes vos commandes, partout en France.<br/><br/></p>",
             "page": ""
           }
         },
@@ -566,7 +566,7 @@
           "type": "tab",
           "settings": {
             "title": "Service client 7j/7",
-            "content": "<h4>Notre équipe est à votre disposition pour répondre à vos questions 7j/7.</h4><p>Vous pouvez nous contacter par email, nous nous engageons à vous répondre sous 24h. </p>",
+            "content": "<h4><strong>Notre équipe est à votre disposition pour répondre à vos questions 7j/7.</strong></h4><p>Vous pouvez nous contacter par email, nous nous engageons à vous répondre sous 24h. </p>",
             "page": ""
           }
         }
