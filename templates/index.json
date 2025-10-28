@@ -558,7 +558,7 @@
           "type": "tab",
           "settings": {
             "title": "Livraison gratuite à domicile",
-            "content": "<p><br/>Offrez-vous l’éclat sans attendre.</p><p><br/>Profitez de la <strong>livraison 100% gratuite</strong> sur toutes vos commandes, partout en France.<br/><br/></p>",
+            "content": "<h4>Offrez-vous l’éclat sans attendre.</h4><p><br/>Profitez de la <strong>livraison 100% gratuite</strong> sur toutes vos commandes, partout en France.<br/><br/></p>",
             "page": ""
           }
         },
