@@ -20,14 +20,14 @@
         "heading_DJWVaA": {
           "type": "heading",
           "settings": {
-            "text": "Sublimez votre regard, où que vous soyez.",
+            "text": "Réveillez la lumière de votre regard.",
             "heading_tag": "h1"
           }
         },
         "richtext_kWHe8k": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>Le soin express qui lisse, illumine et réveille votre regard en un seul geste.</h5>"
+            "content": "<h5>Une formule légère, enrichie en caféine et acide hyaluronique, qui hydrate et défatigue en douceur.</h5>"
           }
         }
       },
@@ -92,6 +92,31 @@
         "overlay_opacity": 0
       }
     },
+    "before_after_image_PeUMdd": {
+      "type": "before-after-image",
+      "name": "Before/after image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "UN REGARD PLUS LISSE ET HYDRATÉ",
+        "content": "<h6>Dès la première application, la peau paraît plus souple et mieux hydratée.<br/>Les marques de fatigue s’estompent, laissant un regard plus frais et reposé<br/><br/></h6>",
+        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080830.png",
+        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080838.png",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "bottom",
+        "before_text": "AVANT",
+        "after_text": "APRÈS",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "before_text_color": "#1a1a1a",
+        "after_text_color": "#ffffff",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "rich_text_BnpnrL": {
       "type": "rich-text",
       "blocks": {
@@ -134,33 +159,9 @@
         "overlay_opacity": 0
       }
     },
-    "before_after_image_PeUMdd": {
-      "type": "before-after-image",
-      "name": "Before/after image",
-      "settings": {
-        "full_width": true,
-        "subheading": "AVANT/APRÈS LYSTÈNE",
-        "title": "Effet lissant immédiat",
-        "content": "<p>Effaceur de rides instantané : atténue les ridules en 10 secondes.<br/>Lisse les lignes d’expression autour des yeux, du front et des sillons nasogéniens en une seule application — réduction visible en quelques secondes.<br/><br/><br/><br/></p>",
-        "before_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080830.png",
-        "after_image": "shopify://shop_images/Capture_d_ecran_2025-10-22_080838.png",
-        "expand_image": false,
-        "text_position": "center",
-        "before_after_text_position": "bottom",
-        "before_text": "AVANT",
-        "after_text": "APRÈS",
-        "drag_initial_position": 50,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "before_text_color": "#1a1a1a",
-        "after_text_color": "#ffffff",
-        "drag_cursor_background": "#ffffff",
-        "drag_cursor_color": "#000000"
-      }
-    },
     "before_after_image_qQCaNC": {
       "type": "before-after-image",
+      "disabled": true,
       "name": "Before/after image",
       "settings": {
         "full_width": true,
@@ -186,6 +187,7 @@
     },
     "before_after_image_7K4Wwr": {
       "type": "before-after-image",
+      "disabled": true,
       "name": "Before/after image",
       "settings": {
         "full_width": true,
@@ -648,9 +650,9 @@
     "image_with_text_overlay_WzgXUh",
     "rich_text_CrPqnr",
     "image_with_text_overlay_9GafJp",
+    "before_after_image_PeUMdd",
     "rich_text_BnpnrL",
     "image_with_text_overlay_zwB3zB",
-    "before_after_image_PeUMdd",
     "before_after_image_qQCaNC",
     "before_after_image_7K4Wwr",
     "multi_column_AJC8ty",
